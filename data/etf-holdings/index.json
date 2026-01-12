@@ -1,0 +1,31 @@
+{
+  "asOfDate": "2026-01-11",
+  "updatedAt": "2026-01-11T23:44:44.629906+00:00",
+  "etfs": {
+    "VOO": {
+      "name": "Vanguard S&P 500 ETF",
+      "holdingsCount": 10,
+      "source": "Yahoo Finance"
+    },
+    "QQQ": {
+      "name": "Invesco QQQ Trust",
+      "holdingsCount": 10,
+      "source": "Yahoo Finance"
+    },
+    "SCHD": {
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "holdingsCount": 10,
+      "source": "Yahoo Finance"
+    },
+    "VTI": {
+      "name": "Vanguard Total Stock Market Index Fund ETF Shares",
+      "holdingsCount": 10,
+      "source": "Yahoo Finance"
+    },
+    "SPY": {
+      "name": "SPDR S&P 500 ETF",
+      "holdingsCount": 503,
+      "source": "SSGA"
+    }
+  }
+}

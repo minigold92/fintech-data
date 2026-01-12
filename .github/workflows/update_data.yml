@@ -1,0 +1,49 @@
+name: Update Stock Data
+
+on:
+  schedule:
+    # 한국 시간 기준 아침 7시 (UTC 22:00, 미국 장 마감 후)
+    # 주중에만 실행 (월-금)
+    - cron: '0 22 * * 1-5'
+  workflow_dispatch: # 수동 실행 버튼
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run data fetch script
+        run: python scripts/fetch_data.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet data/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/ raw/
+          git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
+
+      - name: No changes detected
+        if: steps.check_changes.outputs.changes != 'true'
+        run: echo "No data changes detected, skipping commit."

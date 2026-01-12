@@ -1,0 +1,70 @@
+{
+  "symbol": "SCHD",
+  "name": "Schwab U.S. Dividend Equity ETF",
+  "asOfDate": "2026-01-11",
+  "source": "Yahoo Finance",
+  "updatedAt": "2026-01-11T23:44:29.937036+00:00",
+  "holdingsCount": 10,
+  "holdings": [
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Co",
+      "weight": 4.23,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "weight": 4.13,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 4.08,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corp",
+      "weight": 4.06,
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 4.0,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "weight": 3.98,
+      "sector": "Communication Services"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc",
+      "weight": 3.97,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc",
+      "weight": 3.96,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Co",
+      "weight": 3.94,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group Inc",
+      "weight": 3.94,
+      "sector": "Consumer Defensive"
+    }
+  ]
+}

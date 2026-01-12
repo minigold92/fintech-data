@@ -1,0 +1,70 @@
+{
+  "symbol": "SCHD",
+  "name": "Schwab U.S. Dividend Equity ETF",
+  "asOfDate": "2026-01-11",
+  "source": "Yahoo Finance",
+  "updatedAt": "2026-01-11T23:35:40.044119+00:00",
+  "holdingsCount": 10,
+  "holdings": [
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Co",
+      "weight": 4.23,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "weight": 4.13,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 4.08,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corp",
+      "weight": 4.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 4.0,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "weight": 3.98,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc",
+      "weight": 3.97,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc",
+      "weight": 3.96,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Co",
+      "weight": 3.94,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group Inc",
+      "weight": 3.94,
+      "sector": "Unknown"
+    }
+  ]
+}

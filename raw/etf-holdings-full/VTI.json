@@ -1,0 +1,70 @@
+{
+  "symbol": "VTI",
+  "name": "Vanguard Total Stock Market Index Fund ETF Shares",
+  "asOfDate": "2026-01-11",
+  "source": "Yahoo Finance",
+  "updatedAt": "2026-01-11T23:35:40.697426+00:00",
+  "holdingsCount": 10,
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "weight": 6.29,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "weight": 6.21,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "weight": 5.56,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "weight": 3.4,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "weight": 2.88,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc Class A",
+      "weight": 2.83,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc Class C",
+      "weight": 2.25,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.14,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 1.79,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc Class B",
+      "weight": 1.4,
+      "sector": "Unknown"
+    }
+  ]
+}
