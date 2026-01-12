@@ -1,9 +1,9 @@
 {
   "symbol": "SPY",
   "name": "SPDR S&P 500 ETF",
-  "asOfDate": "2026-01-11",
+  "asOfDate": "2026-01-12",
   "source": "SSGA",
-  "updatedAt": "2026-01-11T23:44:44.120825+00:00",
+  "updatedAt": "2026-01-12T01:31:44.584856+00:00",
   "holdingsCount": 503,
   "holdings": [
     {
