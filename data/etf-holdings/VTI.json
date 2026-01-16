@@ -1,70 +1,70 @@
 {
   "symbol": "VTI",
   "name": "Vanguard Total Stock Market Index Fund ETF Shares",
-  "asOfDate": "2026-01-15",
+  "asOfDate": "2026-01-16",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-01-15T22:22:42.418108+00:00",
+  "updatedAt": "2026-01-16T22:21:44.997622+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
-      "symbol": "AAPL",
-      "name": "Apple Inc",
-      "weight": 6.29,
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "weight": 6.56,
       "sector": "Technology"
     },
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp",
-      "weight": 6.21,
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "weight": 6.12,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.56,
+      "weight": 5.47,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 3.4,
+      "weight": 3.38,
       "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom Inc",
-      "weight": 2.88,
-      "sector": "Technology"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 2.83,
+      "weight": 2.77,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "weight": 2.49,
+      "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.25,
+      "weight": 2.2,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 2.14,
+      "weight": 2.19,
       "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 1.79,
+      "weight": 1.94,
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "BRK-B",
-      "name": "Berkshire Hathaway Inc Class B",
-      "weight": 1.4,
-      "sector": "Financial Services"
+      "symbol": "LLY",
+      "name": "Eli Lilly and Co",
+      "weight": 1.39,
+      "sector": "Healthcare"
     }
   ]
 }
