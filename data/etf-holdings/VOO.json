@@ -1,69 +1,69 @@
 {
   "symbol": "VOO",
   "name": "Vanguard S&P 500 ETF",
-  "asOfDate": "2026-01-16",
+  "asOfDate": "2026-01-19",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-01-16T22:21:42.296546+00:00",
+  "updatedAt": "2026-01-19T22:22:25.490364+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 7.37,
+      "weight": 7.74,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.07,
+      "weight": 6.86,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 6.24,
+      "weight": 6.14,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 3.86,
+      "weight": 3.83,
       "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom Inc",
-      "weight": 3.24,
-      "sector": "Technology"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.18,
+      "weight": 3.11,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "weight": 2.79,
+      "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.55,
+      "weight": 2.49,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 2.4,
+      "weight": 2.45,
       "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 2.06,
+      "weight": 2.16,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc Class B",
-      "weight": 1.61,
+      "weight": 1.57,
       "sector": "Financial Services"
     }
   ]
