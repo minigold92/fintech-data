@@ -1,63 +1,63 @@
 {
   "symbol": "SPY",
   "name": "SPDR S&P 500 ETF",
-  "asOfDate": "2026-01-20",
+  "asOfDate": "2026-01-21",
   "source": "SSGA",
-  "updatedAt": "2026-01-20T22:23:49.104572+00:00",
+  "updatedAt": "2026-01-21T22:26:02.553985+00:00",
   "holdingsCount": 503,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 7.63,
+      "weight": 7.45,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "APPLE INC",
-      "weight": 6.37,
+      "weight": 6.28,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 5.77,
+      "weight": 5.82,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "AMAZON.COM INC",
-      "weight": 3.92,
+      "weight": 3.87,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "ALPHABET INC CL A",
-      "weight": 3.24,
+      "weight": 3.23,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "BROADCOM INC",
-      "weight": 2.8,
+      "weight": 2.71,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "ALPHABET INC CL C",
-      "weight": 2.59,
+      "weight": 2.58,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "weight": 2.28,
+      "weight": 2.27,
       "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "TESLA INC",
-      "weight": 2.07,
+      "weight": 2.03,
       "sector": "Consumer Cyclical"
     },
     {
@@ -67,39 +67,39 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "JPM",
-      "name": "JPMORGAN CHASE + CO",
-      "weight": 1.43,
-      "sector": "Financial Services"
-    },
-    {
       "symbol": "LLY",
       "name": "ELI LILLY + CO",
-      "weight": 1.39,
+      "weight": 1.42,
       "sector": "Healthcare"
     },
     {
-      "symbol": "V",
-      "name": "VISA INC CLASS A SHARES",
-      "weight": 0.93,
+      "symbol": "JPM",
+      "name": "JPMORGAN CHASE + CO",
+      "weight": 1.42,
       "sector": "Financial Services"
     },
     {
       "symbol": "XOM",
       "name": "EXXON MOBIL CORP",
-      "weight": 0.92,
+      "weight": 0.95,
       "sector": "Energy"
+    },
+    {
+      "symbol": "V",
+      "name": "VISA INC CLASS A SHARES",
+      "weight": 0.95,
+      "sector": "Financial Services"
     },
     {
       "symbol": "JNJ",
       "name": "JOHNSON + JOHNSON",
-      "weight": 0.89,
+      "weight": 0.91,
       "sector": "Healthcare"
     },
     {
       "symbol": "WMT",
       "name": "WALMART INC",
-      "weight": 0.89,
+      "weight": 0.9,
       "sector": "Consumer Defensive"
     },
     {
@@ -111,13 +111,13 @@
     {
       "symbol": "COST",
       "name": "COSTCO WHOLESALE CORP",
-      "weight": 0.72,
+      "weight": 0.74,
       "sector": "Consumer Defensive"
     },
     {
       "symbol": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "weight": 0.69,
+      "weight": 0.71,
       "sector": "Technology"
     },
     {
@@ -129,8 +129,14 @@
     {
       "symbol": "ABBV",
       "name": "ABBVIE INC",
-      "weight": 0.64,
+      "weight": 0.65,
       "sector": "Healthcare"
+    },
+    {
+      "symbol": "AMD",
+      "name": "ADVANCED MICRO DEVICES",
+      "weight": 0.65,
+      "sector": "Technology"
     },
     {
       "symbol": "HD",
@@ -139,15 +145,9 @@
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "AMD",
-      "name": "ADVANCED MICRO DEVICES",
-      "weight": 0.64,
-      "sector": "Technology"
-    },
-    {
       "symbol": "NFLX",
       "name": "NETFLIX INC",
-      "weight": 0.63,
+      "weight": 0.64,
       "sector": "Communication Services"
     },
     {
@@ -157,40 +157,40 @@
       "sector": "Financial Services"
     },
     {
-      "symbol": "GE",
-      "name": "GENERAL ELECTRIC",
-      "weight": 0.58,
-      "sector": "Industrials"
-    },
-    {
       "symbol": "PG",
       "name": "PROCTER + GAMBLE CO/THE",
-      "weight": 0.57,
+      "weight": 0.59,
       "sector": "Consumer Defensive"
     },
     {
-      "symbol": "ORCL",
-      "name": "ORACLE CORP",
-      "weight": 0.54,
-      "sector": "Technology"
+      "symbol": "GE",
+      "name": "GENERAL ELECTRIC",
+      "weight": 0.57,
+      "sector": "Industrials"
     },
     {
       "symbol": "CVX",
       "name": "CHEVRON CORP",
-      "weight": 0.53,
+      "weight": 0.54,
       "sector": "Energy"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UNITEDHEALTH GROUP INC",
+      "weight": 0.53,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "ORACLE CORP",
+      "weight": 0.52,
+      "sector": "Technology"
     },
     {
       "symbol": "CAT",
       "name": "CATERPILLAR INC",
       "weight": 0.51,
       "sector": "Industrials"
-    },
-    {
-      "symbol": "UNH",
-      "name": "UNITEDHEALTH GROUP INC",
-      "weight": 0.51,
-      "sector": "Healthcare"
     },
     {
       "symbol": "CSCO",
@@ -205,14 +205,20 @@
       "sector": "Financial Services"
     },
     {
-      "symbol": "IBM",
-      "name": "INTL BUSINESS MACHINES CORP",
+      "symbol": "LRCX",
+      "name": "LAM RESEARCH CORP",
       "weight": 0.48,
       "sector": "Technology"
     },
     {
-      "symbol": "LRCX",
-      "name": "LAM RESEARCH CORP",
+      "symbol": "KO",
+      "name": "COCA COLA CO/THE",
+      "weight": 0.48,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "IBM",
+      "name": "INTL BUSINESS MACHINES CORP",
       "weight": 0.47,
       "sector": "Technology"
     },
@@ -223,28 +229,22 @@
       "sector": "Financial Services"
     },
     {
-      "symbol": "KO",
-      "name": "COCA COLA CO/THE",
-      "weight": 0.46,
-      "sector": "Consumer Defensive"
+      "symbol": "MRK",
+      "name": "MERCK + CO. INC.",
+      "weight": 0.47,
+      "sector": "Healthcare"
     },
     {
       "symbol": "RTX",
       "name": "RTX CORP",
-      "weight": 0.46,
+      "weight": 0.45,
       "sector": "Industrials"
     },
     {
       "symbol": "PM",
       "name": "PHILIP MORRIS INTERNATIONAL",
-      "weight": 0.46,
+      "weight": 0.45,
       "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "MRK",
-      "name": "MERCK + CO. INC.",
-      "weight": 0.46,
-      "sector": "Healthcare"
     },
     {
       "symbol": "AMAT",
@@ -255,14 +255,20 @@
     {
       "symbol": "TMO",
       "name": "THERMO FISHER SCIENTIFIC INC",
-      "weight": 0.39,
+      "weight": 0.4,
       "sector": "Healthcare"
     },
     {
       "symbol": "MS",
       "name": "MORGAN STANLEY",
-      "weight": 0.39,
+      "weight": 0.38,
       "sector": "Financial Services"
+    },
+    {
+      "symbol": "INTC",
+      "name": "INTEL CORP",
+      "weight": 0.38,
+      "sector": "Technology"
     },
     {
       "symbol": "MCD",
@@ -271,33 +277,15 @@
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "CRM",
-      "name": "SALESFORCE INC",
-      "weight": 0.36,
-      "sector": "Technology"
-    },
-    {
       "symbol": "ABT",
       "name": "ABBOTT LABORATORIES",
       "weight": 0.36,
       "sector": "Healthcare"
     },
     {
-      "symbol": "C",
-      "name": "CITIGROUP INC",
+      "symbol": "CRM",
+      "name": "SALESFORCE INC",
       "weight": 0.36,
-      "sector": "Financial Services"
-    },
-    {
-      "symbol": "INTC",
-      "name": "INTEL CORP",
-      "weight": 0.36,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "KLAC",
-      "name": "KLA CORP",
-      "weight": 0.35,
       "sector": "Technology"
     },
     {
@@ -305,6 +293,18 @@
       "name": "LINDE PLC",
       "weight": 0.35,
       "sector": "Basic Materials"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PEPSICO INC",
+      "weight": 0.35,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "C",
+      "name": "CITIGROUP INC",
+      "weight": 0.35,
+      "sector": "Financial Services"
     }
   ],
   "totalHoldings": 503
