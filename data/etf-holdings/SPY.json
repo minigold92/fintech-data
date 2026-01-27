@@ -1,63 +1,63 @@
 {
   "symbol": "SPY",
-  "name": "SPDR S&P 500 ETF",
-  "asOfDate": "2026-01-26",
+  "name": "State Street SPDR S&P 500 ETF Trust",
+  "asOfDate": "2026-01-27",
   "source": "SSGA",
-  "updatedAt": "2026-01-26T22:23:07.971721+00:00",
+  "updatedAt": "2026-01-27T22:23:56.707122+00:00",
   "holdingsCount": 503,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 7.72,
+      "weight": 7.63,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "APPLE INC",
-      "weight": 6.2,
+      "weight": 6.36,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 5.86,
+      "weight": 5.89,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "AMAZON.COM INC",
-      "weight": 3.94,
+      "weight": 3.91,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "ALPHABET INC CL A",
-      "weight": 3.23,
+      "weight": 3.27,
       "sector": "Communication Services"
     },
     {
       "symbol": "GOOG",
       "name": "ALPHABET INC CL C",
-      "weight": 2.58,
+      "weight": 2.61,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "BROADCOM INC",
-      "weight": 2.56,
+      "weight": 2.58,
       "sector": "Technology"
     },
     {
       "symbol": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "weight": 2.43,
+      "weight": 2.47,
       "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "TESLA INC",
-      "weight": 2.14,
+      "weight": 2.06,
       "sector": "Consumer Cyclical"
     },
     {
@@ -69,13 +69,13 @@
     {
       "symbol": "LLY",
       "name": "ELI LILLY + CO",
-      "weight": 1.43,
+      "weight": 1.42,
       "sector": "Healthcare"
     },
     {
       "symbol": "JPM",
       "name": "JPMORGAN CHASE + CO",
-      "weight": 1.37,
+      "weight": 1.38,
       "sector": "Financial Services"
     },
     {
@@ -105,13 +105,13 @@
     {
       "symbol": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "weight": 0.76,
+      "weight": 0.74,
       "sector": "Technology"
     },
     {
       "symbol": "COST",
       "name": "COSTCO WHOLESALE CORP",
-      "weight": 0.74,
+      "weight": 0.73,
       "sector": "Consumer Defensive"
     },
     {
@@ -123,13 +123,7 @@
     {
       "symbol": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "weight": 0.72,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "PLTR",
-      "name": "PALANTIR TECHNOLOGIES INC A",
-      "weight": 0.66,
+      "weight": 0.69,
       "sector": "Technology"
     },
     {
@@ -145,16 +139,16 @@
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "NFLX",
-      "name": "NETFLIX INC",
-      "weight": 0.62,
-      "sector": "Communication Services"
+      "symbol": "PLTR",
+      "name": "PALANTIR TECHNOLOGIES INC A",
+      "weight": 0.64,
+      "sector": "Technology"
     },
     {
-      "symbol": "PG",
-      "name": "PROCTER + GAMBLE CO/THE",
-      "weight": 0.59,
-      "sector": "Consumer Defensive"
+      "symbol": "NFLX",
+      "name": "NETFLIX INC",
+      "weight": 0.61,
+      "sector": "Communication Services"
     },
     {
       "symbol": "BAC",
@@ -163,9 +157,15 @@
       "sector": "Financial Services"
     },
     {
+      "symbol": "PG",
+      "name": "PROCTER + GAMBLE CO/THE",
+      "weight": 0.59,
+      "sector": "Consumer Defensive"
+    },
+    {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
-      "weight": 0.55,
+      "weight": 0.54,
       "sector": "Healthcare"
     },
     {
@@ -183,13 +183,13 @@
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
-      "weight": 0.5,
+      "weight": 0.52,
       "sector": "Technology"
     },
     {
       "symbol": "CSCO",
       "name": "CISCO SYSTEMS INC",
-      "weight": 0.5,
+      "weight": 0.51,
       "sector": "Technology"
     },
     {
@@ -201,8 +201,14 @@
     {
       "symbol": "KO",
       "name": "COCA COLA CO/THE",
-      "weight": 0.48,
+      "weight": 0.47,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "weight": 0.47,
+      "sector": "Technology"
     },
     {
       "symbol": "GS",
@@ -211,21 +217,15 @@
       "sector": "Financial Services"
     },
     {
-      "symbol": "LRCX",
-      "name": "LAM RESEARCH CORP",
-      "weight": 0.46,
-      "sector": "Technology"
-    },
-    {
       "symbol": "IBM",
       "name": "INTL BUSINESS MACHINES CORP",
-      "weight": 0.46,
+      "weight": 0.47,
       "sector": "Technology"
     },
     {
       "symbol": "WFC",
       "name": "WELLS FARGO + CO",
-      "weight": 0.46,
+      "weight": 0.47,
       "sector": "Financial Services"
     },
     {
@@ -261,20 +261,20 @@
     {
       "symbol": "MCD",
       "name": "MCDONALD S CORP",
-      "weight": 0.37,
+      "weight": 0.38,
       "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "CRM",
-      "name": "SALESFORCE INC",
-      "weight": 0.37,
-      "sector": "Technology"
     },
     {
       "symbol": "MS",
       "name": "MORGAN STANLEY",
       "weight": 0.37,
       "sector": "Financial Services"
+    },
+    {
+      "symbol": "CRM",
+      "name": "SALESFORCE INC",
+      "weight": 0.37,
+      "sector": "Technology"
     },
     {
       "symbol": "LIN",
@@ -285,14 +285,8 @@
     {
       "symbol": "C",
       "name": "CITIGROUP INC",
-      "weight": 0.34,
+      "weight": 0.35,
       "sector": "Financial Services"
-    },
-    {
-      "symbol": "INTC",
-      "name": "INTEL CORP",
-      "weight": 0.34,
-      "sector": "Technology"
     },
     {
       "symbol": "KLAC",
@@ -301,9 +295,15 @@
       "sector": "Technology"
     },
     {
+      "symbol": "PEP",
+      "name": "PEPSICO INC",
+      "weight": 0.34,
+      "sector": "Consumer Defensive"
+    },
+    {
       "symbol": "DIS",
       "name": "WALT DISNEY CO/THE",
-      "weight": 0.34,
+      "weight": 0.33,
       "sector": "Communication Services"
     }
   ],
