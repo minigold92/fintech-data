@@ -1,69 +1,69 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-02-04",
+  "asOfDate": "2026-02-05",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-02-04T22:29:19.733019+00:00",
+  "updatedAt": "2026-02-05T22:28:45.193257+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 9.04,
+      "weight": 8.89,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 8.02,
+      "weight": 7.34,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 7.17,
+      "weight": 6.12,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.92,
-      "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "TSLA",
-      "name": "Tesla Inc",
-      "weight": 3.97,
+      "weight": 4.9,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 3.87,
+      "weight": 4.03,
       "sector": "Communication Services"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.63,
+      "weight": 3.77,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 3.65,
+      "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 3.39,
+      "weight": 3.5,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "weight": 3.08,
+      "sector": "Consumer Defensive"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 3.26,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "PLTR",
-      "name": "Palantir Technologies Inc Ordinary Shares - Class A",
-      "weight": 2.24,
+      "weight": 3.0,
       "sector": "Technology"
     }
   ]

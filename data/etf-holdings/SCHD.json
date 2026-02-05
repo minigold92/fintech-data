@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-02-04",
+  "asOfDate": "2026-02-05",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-02-04T22:29:21.824836+00:00",
+  "updatedAt": "2026-02-05T22:28:47.979402+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
-      "symbol": "BMY",
-      "name": "Bristol-Myers Squibb Co",
-      "weight": 4.23,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "MRK",
-      "name": "Merck & Co Inc",
-      "weight": 4.13,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "weight": 4.08,
-      "sector": "Energy"
-    },
-    {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp",
-      "weight": 4.06,
+      "weight": 4.91,
       "sector": "Industrials"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 4.37,
+      "sector": "Technology"
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corp",
-      "weight": 4.0,
+      "weight": 4.32,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 4.2,
       "sector": "Energy"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc",
-      "weight": 3.98,
+      "weight": 4.05,
       "sector": "Communication Services"
     },
     {
-      "symbol": "ABBV",
-      "name": "AbbVie Inc",
-      "weight": 3.97,
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Co",
+      "weight": 4.0,
       "sector": "Healthcare"
     },
     {
-      "symbol": "CSCO",
-      "name": "Cisco Systems Inc",
-      "weight": 3.96,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "KO",
-      "name": "Coca-Cola Co",
-      "weight": 3.94,
-      "sector": "Consumer Defensive"
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "weight": 3.99,
+      "sector": "Healthcare"
     },
     {
       "symbol": "MO",
       "name": "Altria Group Inc",
-      "weight": 3.94,
+      "weight": 3.93,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Co",
+      "weight": 3.91,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "HD",
+      "name": "The Home Depot Inc",
+      "weight": 3.88,
+      "sector": "Consumer Cyclical"
     }
   ]
 }
