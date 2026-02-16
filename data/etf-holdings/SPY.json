@@ -1,9 +1,9 @@
 {
   "symbol": "SPY",
   "name": "State Street SPDR S&P 500 ETF Trust",
-  "asOfDate": "2026-02-13",
+  "asOfDate": "2026-02-16",
   "source": "SSGA",
-  "updatedAt": "2026-02-13T22:34:35.936752+00:00",
+  "updatedAt": "2026-02-16T22:29:45.287538+00:00",
   "holdingsCount": 503,
   "holdings": [
     {
