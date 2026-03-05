@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-03-04",
+  "asOfDate": "2026-03-05",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-03-04T22:32:01.316986+00:00",
+  "updatedAt": "2026-03-05T22:32:00.078333+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corp",
-      "weight": 4.91,
+      "weight": 4.81,
       "sector": "Industrials"
-    },
-    {
-      "symbol": "TXN",
-      "name": "Texas Instruments Inc",
-      "weight": 4.37,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron Corp",
-      "weight": 4.32,
-      "sector": "Energy"
     },
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "weight": 4.2,
+      "weight": 4.32,
       "sector": "Energy"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc",
-      "weight": 4.05,
+      "weight": 4.31,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 4.31,
+      "sector": "Energy"
     },
     {
       "symbol": "BMY",
       "name": "Bristol-Myers Squibb Co",
-      "weight": 4.0,
+      "weight": 4.28,
       "sector": "Healthcare"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co Inc",
-      "weight": 3.99,
+      "weight": 4.23,
       "sector": "Healthcare"
     },
     {
       "symbol": "MO",
       "name": "Altria Group Inc",
-      "weight": 3.93,
+      "weight": 4.13,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 4.06,
+      "sector": "Technology"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Co",
-      "weight": 3.91,
+      "weight": 4.03,
       "sector": "Consumer Defensive"
     },
     {
-      "symbol": "HD",
-      "name": "The Home Depot Inc",
-      "weight": 3.88,
-      "sector": "Consumer Cyclical"
+      "symbol": "PEP",
+      "name": "PepsiCo Inc",
+      "weight": 4.01,
+      "sector": "Consumer Defensive"
     }
   ]
 }
