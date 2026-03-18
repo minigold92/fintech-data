@@ -1,21 +1,21 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-03-17",
+  "asOfDate": "2026-03-18",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-03-17T22:33:51.250602+00:00",
+  "updatedAt": "2026-03-18T22:33:07.084546+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.39,
+      "weight": 8.4,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.61,
+      "weight": 7.62,
       "sector": "Technology"
     },
     {
