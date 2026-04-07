@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-04-06",
+  "asOfDate": "2026-04-07",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-04-06T22:37:14.519473+00:00",
+  "updatedAt": "2026-04-07T22:38:20.717081+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
-      "symbol": "LMT",
-      "name": "Lockheed Martin Corp",
-      "weight": 4.81,
-      "sector": "Industrials"
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 4.68,
+      "sector": "Energy"
     },
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "weight": 4.32,
+      "weight": 4.33,
       "sector": "Energy"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc",
-      "weight": 4.31,
+      "weight": 4.06,
       "sector": "Communication Services"
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron Corp",
-      "weight": 4.31,
-      "sector": "Energy"
-    },
-    {
-      "symbol": "BMY",
-      "name": "Bristol-Myers Squibb Co",
-      "weight": 4.28,
-      "sector": "Healthcare"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co Inc",
-      "weight": 4.23,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "MO",
-      "name": "Altria Group Inc",
-      "weight": 4.13,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "TXN",
-      "name": "Texas Instruments Inc",
       "weight": 4.06,
-      "sector": "Technology"
+      "sector": "Healthcare"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Co",
-      "weight": 4.03,
+      "weight": 4.04,
       "sector": "Consumer Defensive"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo Inc",
-      "weight": 4.01,
+      "weight": 3.95,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 3.81,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "weight": 3.8,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "weight": 3.78,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "weight": 3.72,
+      "sector": "Healthcare"
     }
   ]
 }
