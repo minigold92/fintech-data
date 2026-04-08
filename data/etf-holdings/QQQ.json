@@ -1,15 +1,15 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-04-07",
+  "asOfDate": "2026-04-08",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-04-07T22:38:19.842688+00:00",
+  "updatedAt": "2026-04-08T22:39:22.776213+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.4,
+      "weight": 8.67,
       "sector": "Technology"
     },
     {
@@ -21,49 +21,49 @@
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.69,
+      "weight": 5.62,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.38,
+      "weight": 4.57,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 3.92,
+      "weight": 3.8,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 3.71,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc Class A",
-      "weight": 3.54,
+      "weight": 3.45,
       "sector": "Communication Services"
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc",
-      "weight": 3.37,
+      "weight": 3.43,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc Class A",
+      "weight": 3.43,
+      "sector": "Communication Services"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 3.28,
+      "weight": 3.19,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 2.94,
+      "weight": 3.0,
       "sector": "Technology"
     }
   ]
