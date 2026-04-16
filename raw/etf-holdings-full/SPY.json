@@ -1,81 +1,81 @@
 {
   "symbol": "SPY",
   "name": "State Street SPDR S&P 500 ETF Trust",
-  "asOfDate": "2026-04-15",
+  "asOfDate": "2026-04-16",
   "source": "SSGA",
-  "updatedAt": "2026-04-15T22:41:34.719635+00:00",
+  "updatedAt": "2026-04-16T22:40:32.327566+00:00",
   "holdingsCount": 504,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 8.0,
+      "weight": 8.03,
       "sector": "Unknown"
     },
     {
       "symbol": "AAPL",
       "name": "APPLE INC",
-      "weight": 6.37,
+      "weight": 6.5,
       "sector": "Unknown"
     },
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 4.89,
+      "weight": 5.07,
       "sector": "Unknown"
     },
     {
       "symbol": "AMZN",
       "name": "AMAZON.COM INC",
-      "weight": 4.07,
+      "weight": 4.03,
       "sector": "Unknown"
     },
     {
       "symbol": "GOOGL",
       "name": "ALPHABET INC CL A",
-      "weight": 3.25,
+      "weight": 3.26,
       "sector": "Unknown"
     },
     {
       "symbol": "AVGO",
       "name": "BROADCOM INC",
-      "weight": 3.02,
+      "weight": 3.13,
       "sector": "Unknown"
     },
     {
       "symbol": "GOOG",
       "name": "ALPHABET INC CL C",
-      "weight": 2.59,
+      "weight": 2.6,
       "sector": "Unknown"
     },
     {
       "symbol": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "weight": 2.43,
+      "weight": 2.44,
       "sector": "Unknown"
     },
     {
       "symbol": "TSLA",
       "name": "TESLA INC",
-      "weight": 1.72,
+      "weight": 1.83,
       "sector": "Unknown"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY INC CL B",
-      "weight": 1.47,
+      "weight": 1.44,
       "sector": "Unknown"
     },
     {
       "symbol": "JPM",
       "name": "JPMORGAN CHASE + CO",
-      "weight": 1.41,
+      "weight": 1.37,
       "sector": "Unknown"
     },
     {
       "symbol": "LLY",
       "name": "ELI LILLY + CO",
-      "weight": 1.22,
+      "weight": 1.19,
       "sector": "Unknown"
     },
     {
@@ -87,19 +87,13 @@
     {
       "symbol": "JNJ",
       "name": "JOHNSON + JOHNSON",
-      "weight": 0.97,
+      "weight": 0.96,
       "sector": "Unknown"
     },
     {
       "symbol": "WMT",
       "name": "WALMART INC",
-      "weight": 0.92,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "weight": 0.88,
+      "weight": 0.91,
       "sector": "Unknown"
     },
     {
@@ -109,9 +103,15 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "weight": 0.85,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "NFLX",
       "name": "NETFLIX INC",
-      "weight": 0.75,
+      "weight": 0.76,
       "sector": "Unknown"
     },
     {
@@ -133,135 +133,129 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CAT",
-      "name": "CATERPILLAR INC",
-      "weight": 0.62,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "ABBV",
       "name": "ABBVIE INC",
-      "weight": 0.62,
+      "weight": 0.61,
       "sector": "Unknown"
     },
     {
       "symbol": "BAC",
       "name": "BANK OF AMERICA CORP",
-      "weight": 0.59,
+      "weight": 0.6,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CAT",
+      "name": "CATERPILLAR INC",
+      "weight": 0.6,
       "sector": "Unknown"
     },
     {
       "symbol": "CVX",
       "name": "CHEVRON CORP",
-      "weight": 0.59,
+      "weight": 0.58,
       "sector": "Unknown"
     },
     {
       "symbol": "HD",
       "name": "HOME DEPOT INC",
-      "weight": 0.57,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "LRCX",
-      "name": "LAM RESEARCH CORP",
-      "weight": 0.57,
+      "weight": 0.56,
       "sector": "Unknown"
     },
     {
       "symbol": "PG",
       "name": "PROCTER + GAMBLE CO/THE",
-      "weight": 0.56,
+      "weight": 0.55,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "weight": 0.55,
       "sector": "Unknown"
     },
     {
       "symbol": "GE",
       "name": "GENERAL ELECTRIC",
-      "weight": 0.56,
+      "weight": 0.55,
       "sector": "Unknown"
     },
     {
       "symbol": "CSCO",
       "name": "CISCO SYSTEMS INC",
-      "weight": 0.55,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "AMAT",
-      "name": "APPLIED MATERIALS INC",
-      "weight": 0.53,
+      "weight": 0.54,
       "sector": "Unknown"
     },
     {
       "symbol": "PLTR",
       "name": "PALANTIR TECHNOLOGIES INC A",
+      "weight": 0.54,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AMAT",
+      "name": "APPLIED MATERIALS INC",
       "weight": 0.52,
       "sector": "Unknown"
     },
     {
       "symbol": "INTC",
       "name": "INTEL CORP",
-      "weight": 0.5,
+      "weight": 0.51,
       "sector": "Unknown"
     },
     {
       "symbol": "MRK",
       "name": "MERCK + CO. INC.",
-      "weight": 0.5,
+      "weight": 0.49,
       "sector": "Unknown"
     },
     {
       "symbol": "KO",
       "name": "COCA COLA CO/THE",
-      "weight": 0.49,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "UNH",
-      "name": "UNITEDHEALTH GROUP INC",
       "weight": 0.48,
       "sector": "Unknown"
     },
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
-      "weight": 0.46,
+      "weight": 0.48,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UNITEDHEALTH GROUP INC",
+      "weight": 0.47,
       "sector": "Unknown"
     },
     {
       "symbol": "GS",
       "name": "GOLDMAN SACHS GROUP INC",
-      "weight": 0.46,
+      "weight": 0.45,
       "sector": "Unknown"
     },
     {
       "symbol": "RTX",
       "name": "RTX CORP",
-      "weight": 0.46,
+      "weight": 0.44,
       "sector": "Unknown"
     },
     {
       "symbol": "GEV",
       "name": "GE VERNOVA INC",
-      "weight": 0.45,
+      "weight": 0.44,
       "sector": "Unknown"
     },
     {
       "symbol": "WFC",
       "name": "WELLS FARGO + CO",
-      "weight": 0.42,
+      "weight": 0.41,
       "sector": "Unknown"
     },
     {
       "symbol": "PM",
       "name": "PHILIP MORRIS INTERNATIONAL",
-      "weight": 0.42,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "KLAC",
-      "name": "KLA CORP",
-      "weight": 0.39,
+      "weight": 0.41,
       "sector": "Unknown"
     },
     {
@@ -271,8 +265,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "MS",
+      "name": "MORGAN STANLEY",
+      "weight": 0.38,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "C",
       "name": "CITIGROUP INC",
+      "weight": 0.38,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA CORP",
       "weight": 0.38,
       "sector": "Unknown"
     },
@@ -280,12 +286,6 @@
       "symbol": "IBM",
       "name": "INTL BUSINESS MACHINES CORP",
       "weight": 0.38,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MS",
-      "name": "MORGAN STANLEY",
-      "weight": 0.37,
       "sector": "Unknown"
     },
     {
@@ -297,13 +297,7 @@
     {
       "symbol": "PEP",
       "name": "PEPSICO INC",
-      "weight": 0.36,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TXN",
-      "name": "TEXAS INSTRUMENTS INC",
-      "weight": 0.33,
+      "weight": 0.35,
       "sector": "Unknown"
     },
     {
@@ -313,9 +307,9 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "VZ",
-      "name": "VERIZON COMMUNICATIONS INC",
-      "weight": 0.32,
+      "symbol": "TXN",
+      "name": "TEXAS INSTRUMENTS INC",
+      "weight": 0.33,
       "sector": "Unknown"
     },
     {
@@ -325,20 +319,26 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "AMGN",
-      "name": "AMGEN INC",
+      "symbol": "VZ",
+      "name": "VERIZON COMMUNICATIONS INC",
       "weight": 0.32,
       "sector": "Unknown"
     },
     {
-      "symbol": "APH",
-      "name": "AMPHENOL CORP CL A",
+      "symbol": "AMGN",
+      "name": "AMGEN INC",
       "weight": 0.31,
       "sector": "Unknown"
     },
     {
       "symbol": "DIS",
       "name": "WALT DISNEY CO/THE",
+      "weight": 0.3,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "APH",
+      "name": "AMPHENOL CORP CL A",
       "weight": 0.3,
       "sector": "Unknown"
     },
@@ -355,8 +355,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "BA",
-      "name": "BOEING CO/THE",
+      "symbol": "ABT",
+      "name": "ABBOTT LABORATORIES",
       "weight": 0.29,
       "sector": "Unknown"
     },
@@ -367,8 +367,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ABT",
-      "name": "ABBOTT LABORATORIES",
+      "symbol": "BA",
+      "name": "BOEING CO/THE",
       "weight": 0.29,
       "sector": "Unknown"
     },
@@ -381,12 +381,6 @@
     {
       "symbol": "ADI",
       "name": "ANALOG DEVICES INC",
-      "weight": 0.29,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ISRG",
-      "name": "INTUITIVE SURGICAL INC",
       "weight": 0.28,
       "sector": "Unknown"
     },
@@ -399,18 +393,24 @@
     {
       "symbol": "CRM",
       "name": "SALESFORCE INC",
-      "weight": 0.27,
+      "weight": 0.28,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ISRG",
+      "name": "INTUITIVE SURGICAL INC",
+      "weight": 0.28,
       "sector": "Unknown"
     },
     {
       "symbol": "ANET",
       "name": "ARISTA NETWORKS INC",
-      "weight": 0.27,
+      "weight": 0.26,
       "sector": "Unknown"
     },
     {
-      "symbol": "ETN",
-      "name": "EATON CORP PLC",
+      "symbol": "UBER",
+      "name": "UBER TECHNOLOGIES INC",
       "weight": 0.26,
       "sector": "Unknown"
     },
@@ -421,32 +421,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "ETN",
+      "name": "EATON CORP PLC",
+      "weight": 0.26,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "BLK",
       "name": "BLACKROCK INC",
       "weight": 0.25,
       "sector": "Unknown"
     },
     {
-      "symbol": "DE",
-      "name": "DEERE + CO",
-      "weight": 0.25,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "UBER",
-      "name": "UBER TECHNOLOGIES INC",
-      "weight": 0.25,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "UNP",
-      "name": "UNION PACIFIC CORP",
-      "weight": 0.25,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC",
+      "symbol": "BKNG",
+      "name": "BOOKING HOLDINGS INC",
       "weight": 0.25,
       "sector": "Unknown"
     },
@@ -457,8 +445,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "BKNG",
-      "name": "BOOKING HOLDINGS INC",
+      "symbol": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "weight": 0.24,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC",
       "weight": 0.24,
       "sector": "Unknown"
     },
@@ -469,26 +463,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "DE",
+      "name": "DEERE + CO",
+      "weight": 0.24,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "QCOM",
       "name": "QUALCOMM INC",
       "weight": 0.24,
       "sector": "Unknown"
     },
     {
-      "symbol": "SNDK",
-      "name": "SANDISK CORP",
-      "weight": 0.23,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "LOW",
       "name": "LOWE S COS INC",
-      "weight": 0.23,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "GLW",
-      "name": "CORNING INC",
       "weight": 0.23,
       "sector": "Unknown"
     },
@@ -499,8 +487,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "NEM",
-      "name": "NEWMONT CORP",
+      "symbol": "SNDK",
+      "name": "SANDISK CORP",
       "weight": 0.22,
       "sector": "Unknown"
     },
@@ -511,15 +499,15 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PLD",
-      "name": "PROLOGIS INC",
+      "symbol": "GLW",
+      "name": "CORNING INC",
       "weight": 0.22,
       "sector": "Unknown"
     },
     {
-      "symbol": "DHR",
-      "name": "DANAHER CORP",
-      "weight": 0.21,
+      "symbol": "PLD",
+      "name": "PROLOGIS INC",
+      "weight": 0.22,
       "sector": "Unknown"
     },
     {
@@ -529,8 +517,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PH",
-      "name": "PARKER HANNIFIN CORP",
+      "symbol": "APP",
+      "name": "APPLOVIN CORP CLASS A",
+      "weight": 0.21,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DHR",
+      "name": "DANAHER CORP",
+      "weight": 0.21,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LMT",
+      "name": "LOCKHEED MARTIN CORP",
       "weight": 0.21,
       "sector": "Unknown"
     },
@@ -541,9 +541,39 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "LMT",
-      "name": "LOCKHEED MARTIN CORP",
+      "symbol": "NEM",
+      "name": "NEWMONT CORP",
       "weight": 0.21,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PH",
+      "name": "PARKER HANNIFIN CORP",
+      "weight": 0.2,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ACN",
+      "name": "ACCENTURE PLC CL A",
+      "weight": 0.2,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CB",
+      "name": "CHUBB LTD",
+      "weight": 0.2,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PGR",
+      "name": "PROGRESSIVE CORP",
+      "weight": 0.2,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "BMY",
+      "name": "BRISTOL MYERS SQUIBB CO",
+      "weight": 0.2,
       "sector": "Unknown"
     },
     {
@@ -555,42 +585,12 @@
     {
       "symbol": "VRT",
       "name": "VERTIV HOLDINGS CO A",
-      "weight": 0.2,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CB",
-      "name": "CHUBB LTD",
-      "weight": 0.2,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BMY",
-      "name": "BRISTOL MYERS SQUIBB CO",
-      "weight": 0.2,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "APP",
-      "name": "APPLOVIN CORP CLASS A",
-      "weight": 0.2,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ACN",
-      "name": "ACCENTURE PLC CL A",
-      "weight": 0.2,
+      "weight": 0.19,
       "sector": "Unknown"
     },
     {
       "symbol": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "weight": 0.2,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PGR",
-      "name": "PROGRESSIVE CORP",
       "weight": 0.19,
       "sector": "Unknown"
     },
@@ -601,15 +601,21 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "SBUX",
+      "name": "STARBUCKS CORP",
+      "weight": 0.19,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "MDT",
       "name": "MEDTRONIC PLC",
       "weight": 0.19,
       "sector": "Unknown"
     },
     {
-      "symbol": "SBUX",
-      "name": "STARBUCKS CORP",
-      "weight": 0.19,
+      "symbol": "INTU",
+      "name": "INTUIT INC",
+      "weight": 0.18,
       "sector": "Unknown"
     },
     {
@@ -633,42 +639,6 @@
     {
       "symbol": "SO",
       "name": "SOUTHERN CO/THE",
-      "weight": 0.18,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TT",
-      "name": "TRANE TECHNOLOGIES PLC",
-      "weight": 0.17,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EQIX",
-      "name": "EQUINIX INC",
-      "weight": 0.17,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "HWM",
-      "name": "HOWMET AEROSPACE INC",
-      "weight": 0.17,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "INTU",
-      "name": "INTUIT INC",
-      "weight": 0.17,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "DUK",
-      "name": "DUKE ENERGY CORP",
-      "weight": 0.17,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
       "weight": 0.17,
       "sector": "Unknown"
     },
@@ -679,8 +649,38 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CVS",
-      "name": "CVS HEALTH CORP",
+      "symbol": "EQIX",
+      "name": "EQUINIX INC",
+      "weight": 0.17,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "TT",
+      "name": "TRANE TECHNOLOGIES PLC",
+      "weight": 0.17,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "HWM",
+      "name": "HOWMET AEROSPACE INC",
+      "weight": 0.17,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "weight": 0.17,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "ADOBE INC",
+      "weight": 0.17,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DUK",
+      "name": "DUKE ENERGY CORP",
       "weight": 0.17,
       "sector": "Unknown"
     },
@@ -691,14 +691,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ADBE",
-      "name": "ADOBE INC",
-      "weight": 0.16,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BSX",
-      "name": "BOSTON SCIENTIFIC CORP",
+      "symbol": "NOW",
+      "name": "SERVICENOW INC",
       "weight": 0.16,
       "sector": "Unknown"
     },
@@ -709,20 +703,32 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "BSX",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "weight": 0.16,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS HEALTH CORP",
+      "weight": 0.16,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ICE",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "weight": 0.16,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "CEG",
       "name": "CONSTELLATION ENERGY",
       "weight": 0.15,
       "sector": "Unknown"
     },
     {
-      "symbol": "ICE",
-      "name": "INTERCONTINENTAL EXCHANGE IN",
-      "weight": 0.15,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NOW",
-      "name": "SERVICENOW INC",
+      "symbol": "BK",
+      "name": "BANK OF NEW YORK MELLON CORP",
       "weight": 0.15,
       "sector": "Unknown"
     },
@@ -735,12 +741,6 @@
     {
       "symbol": "TMUS",
       "name": "T MOBILE US INC",
-      "weight": 0.15,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BK",
-      "name": "BANK OF NEW YORK MELLON CORP",
       "weight": 0.15,
       "sector": "Unknown"
     },
@@ -765,30 +765,12 @@
     {
       "symbol": "WMB",
       "name": "WILLIAMS COS INC",
-      "weight": 0.15,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "JCI",
-      "name": "JOHNSON CONTROLS INTERNATION",
-      "weight": 0.15,
+      "weight": 0.14,
       "sector": "Unknown"
     },
     {
       "symbol": "GD",
       "name": "GENERAL DYNAMICS CORP",
-      "weight": 0.14,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CMI",
-      "name": "CUMMINS INC",
-      "weight": 0.14,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "WM",
-      "name": "WASTE MANAGEMENT INC",
       "weight": 0.14,
       "sector": "Unknown"
     },
@@ -799,14 +781,38 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "JCI",
+      "name": "JOHNSON CONTROLS INTERNATION",
+      "weight": 0.14,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "SNPS",
+      "name": "SYNOPSYS INC",
+      "weight": 0.14,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "WM",
+      "name": "WASTE MANAGEMENT INC",
+      "weight": 0.14,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CMI",
+      "name": "CUMMINS INC",
+      "weight": 0.14,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "AMT",
       "name": "AMERICAN TOWER CORP",
       "weight": 0.14,
       "sector": "Unknown"
     },
     {
-      "symbol": "EMR",
-      "name": "EMERSON ELECTRIC CO",
+      "symbol": "CDNS",
+      "name": "CADENCE DESIGN SYS INC",
       "weight": 0.14,
       "sector": "Unknown"
     },
@@ -823,8 +829,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "SNPS",
-      "name": "SYNOPSYS INC",
+      "symbol": "ADP",
+      "name": "AUTOMATIC DATA PROCESSING",
+      "weight": 0.13,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EMR",
+      "name": "EMERSON ELECTRIC CO",
       "weight": 0.13,
       "sector": "Unknown"
     },
@@ -835,8 +847,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CDNS",
-      "name": "CADENCE DESIGN SYS INC",
+      "symbol": "ORLY",
+      "name": "O REILLY AUTOMOTIVE INC",
+      "weight": 0.13,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB LTD",
       "weight": 0.13,
       "sector": "Unknown"
     },
@@ -853,14 +871,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ORLY",
-      "name": "O REILLY AUTOMOTIVE INC",
-      "weight": 0.13,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ADP",
-      "name": "AUTOMATIC DATA PROCESSING",
+      "symbol": "UPS",
+      "name": "UNITED PARCEL SERVICE CL B",
       "weight": 0.13,
       "sector": "Unknown"
     },
@@ -871,26 +883,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "SHW",
-      "name": "SHERWIN WILLIAMS CO/THE",
-      "weight": 0.13,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "SLB",
-      "name": "SLB LTD",
-      "weight": 0.13,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "UPS",
-      "name": "UNITED PARCEL SERVICE CL B",
-      "weight": 0.13,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "REGN",
       "name": "REGENERON PHARMACEUTICALS",
+      "weight": 0.13,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "SHW",
+      "name": "SHERWIN WILLIAMS CO/THE",
       "weight": 0.13,
       "sector": "Unknown"
     },
@@ -901,8 +901,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "MDLZ",
-      "name": "MONDELEZ INTERNATIONAL INC A",
+      "symbol": "MSI",
+      "name": "MOTOROLA SOLUTIONS INC",
       "weight": 0.12,
       "sector": "Unknown"
     },
@@ -913,20 +913,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TDG",
-      "name": "TRANSDIGM GROUP INC",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MSI",
-      "name": "MOTOROLA SOLUTIONS INC",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG RESOURCES INC",
+      "symbol": "MDLZ",
+      "name": "MONDELEZ INTERNATIONAL INC A",
       "weight": 0.12,
       "sector": "Unknown"
     },
@@ -937,50 +925,14 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "TDG",
+      "name": "TRANSDIGM GROUP INC",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "VLO",
       "name": "VALERO ENERGY CORP",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "GM",
-      "name": "GENERAL MOTORS CO",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CI",
-      "name": "THE CIGNA GROUP",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ITW",
-      "name": "ILLINOIS TOOL WORKS",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "RCL",
-      "name": "ROYAL CARIBBEAN CRUISES LTD",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ECL",
-      "name": "ECOLAB INC",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TEL",
-      "name": "TE CONNECTIVITY PLC",
-      "weight": 0.12,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "AON",
-      "name": "AON PLC CLASS A",
       "weight": 0.12,
       "sector": "Unknown"
     },
@@ -991,26 +943,50 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ELV",
-      "name": "ELEVANCE HEALTH INC",
+      "symbol": "EOG",
+      "name": "EOG RESOURCES INC",
       "weight": 0.12,
       "sector": "Unknown"
     },
     {
-      "symbol": "CL",
-      "name": "COLGATE PALMOLIVE CO",
+      "symbol": "RCL",
+      "name": "ROYAL CARIBBEAN CRUISES LTD",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CI",
+      "name": "THE CIGNA GROUP",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AON",
+      "name": "AON PLC CLASS A",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GM",
+      "name": "GENERAL MOTORS CO",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ITW",
+      "name": "ILLINOIS TOOL WORKS",
+      "weight": 0.12,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ECL",
+      "name": "ECOLAB INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
     {
-      "symbol": "WBD",
-      "name": "WARNER BROS DISCOVERY INC",
-      "weight": 0.11,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NSC",
-      "name": "NORFOLK SOUTHERN CORP",
+      "symbol": "HOOD",
+      "name": "ROBINHOOD MARKETS INC   A",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1021,14 +997,50 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "LHX",
-      "name": "L3HARRIS TECHNOLOGIES INC",
+      "symbol": "TEL",
+      "name": "TE CONNECTIVITY PLC",
       "weight": 0.11,
       "sector": "Unknown"
     },
     {
-      "symbol": "MPWR",
-      "name": "MONOLITHIC POWER SYSTEMS INC",
+      "symbol": "ELV",
+      "name": "ELEVANCE HEALTH INC",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "WBD",
+      "name": "WARNER BROS DISCOVERY INC",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CL",
+      "name": "COLGATE PALMOLIVE CO",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DASH",
+      "name": "DOORDASH INC   A",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NSC",
+      "name": "NORFOLK SOUTHERN CORP",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CIEN",
+      "name": "CIENA CORP",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3HARRIS TECHNOLOGIES INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1039,8 +1051,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PCAR",
-      "name": "PACCAR INC",
+      "symbol": "MPWR",
+      "name": "MONOLITHIC POWER SYSTEMS INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1057,8 +1069,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CIEN",
-      "name": "CIENA CORP",
+      "symbol": "PSX",
+      "name": "PHILLIPS 66",
+      "weight": 0.11,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PCAR",
+      "name": "PACCAR INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1069,20 +1087,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PSX",
-      "name": "PHILLIPS 66",
-      "weight": 0.11,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "DLR",
       "name": "DIGITAL REALTY TRUST INC",
-      "weight": 0.11,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "SRE",
-      "name": "SEMPRA",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1093,14 +1099,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "HOOD",
-      "name": "ROBINHOOD MARKETS INC   A",
-      "weight": 0.1,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "COR",
-      "name": "CENCORA INC",
+      "symbol": "SRE",
+      "name": "SEMPRA",
       "weight": 0.1,
       "sector": "Unknown"
     },
@@ -1111,20 +1111,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DASH",
-      "name": "DOORDASH INC   A",
-      "weight": 0.1,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "LITE",
-      "name": "LUMENTUM HOLDINGS INC",
-      "weight": 0.1,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BKR",
-      "name": "BAKER HUGHES CO",
+      "symbol": "COR",
+      "name": "CENCORA INC",
       "weight": 0.1,
       "sector": "Unknown"
     },
@@ -1135,20 +1123,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "BKR",
+      "name": "BAKER HUGHES CO",
+      "weight": 0.1,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "O",
       "name": "REALTY INCOME CORP",
       "weight": 0.1,
       "sector": "Unknown"
     },
     {
-      "symbol": "COHR",
-      "name": "COHERENT CORP",
-      "weight": 0.1,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "FIX",
-      "name": "COMFORT SYSTEMS USA INC",
+      "symbol": "LITE",
+      "name": "LUMENTUM HOLDINGS INC",
       "weight": 0.1,
       "sector": "Unknown"
     },
@@ -1159,20 +1147,44 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TER",
-      "name": "TERADYNE INC",
+      "symbol": "FIX",
+      "name": "COMFORT SYSTEMS USA INC",
       "weight": 0.1,
       "sector": "Unknown"
     },
     {
       "symbol": "ABNB",
       "name": "AIRBNB INC CLASS A",
-      "weight": 0.09,
+      "weight": 0.1,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "COHR",
+      "name": "COHERENT CORP",
+      "weight": 0.1,
       "sector": "Unknown"
     },
     {
       "symbol": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
+      "weight": 0.1,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "TER",
+      "name": "TERADYNE INC",
+      "weight": 0.1,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ALL",
+      "name": "ALLSTATE CORP",
+      "weight": 0.09,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "APO",
+      "name": "APOLLO GLOBAL MANAGEMENT INC",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1183,8 +1195,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ALL",
-      "name": "ALLSTATE CORP",
+      "symbol": "TGT",
+      "name": "TARGET CORP",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1195,8 +1207,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DELL",
-      "name": "DELL TECHNOLOGIES  C",
+      "symbol": "NKE",
+      "name": "NIKE INC  CL B",
+      "weight": 0.09,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MNST",
+      "name": "MONSTER BEVERAGE CORP",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1213,32 +1231,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TGT",
-      "name": "TARGET CORP",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MNST",
-      "name": "MONSTER BEVERAGE CORP",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "APO",
-      "name": "APOLLO GLOBAL MANAGEMENT INC",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "OKE",
       "name": "ONEOK INC",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CVNA",
-      "name": "CARVANA CO",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1249,8 +1243,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "NKE",
-      "name": "NIKE INC  CL B",
+      "symbol": "CVNA",
+      "name": "CARVANA CO",
+      "weight": 0.09,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AFL",
+      "name": "AFLAC INC",
+      "weight": 0.09,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DELL",
+      "name": "DELL TECHNOLOGIES  C",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1267,44 +1273,26 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "AFL",
-      "name": "AFLAC INC",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "FAST",
-      "name": "FASTENAL CO",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "TRGP",
       "name": "TARGA RESOURCES CORP",
       "weight": 0.09,
       "sector": "Unknown"
     },
     {
+      "symbol": "FAST",
+      "name": "FASTENAL CO",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "ZTS",
       "name": "ZOETIS INC",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "GWW",
-      "name": "WW GRAINGER INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
     {
-      "symbol": "CARR",
-      "name": "CARRIER GLOBAL CORP",
-      "weight": 0.08,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CAH",
-      "name": "CARDINAL HEALTH INC",
+      "symbol": "ADSK",
+      "name": "AUTODESK INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1315,8 +1303,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "GWW",
+      "name": "WW GRAINGER INC",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "F",
       "name": "FORD MOTOR CO",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CAH",
+      "name": "CARDINAL HEALTH INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1333,20 +1333,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ADSK",
-      "name": "AUTODESK INC",
-      "weight": 0.08,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "PSA",
       "name": "PUBLIC STORAGE",
-      "weight": 0.08,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "XEL",
-      "name": "XCEL ENERGY INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1357,14 +1345,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "XEL",
+      "name": "XCEL ENERGY INC",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "IDXX",
       "name": "IDEXX LABORATORIES INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
     {
-      "symbol": "WAB",
-      "name": "WABTEC CORP",
+      "symbol": "CARR",
+      "name": "CARRIER GLOBAL CORP",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1375,14 +1369,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ROK",
-      "name": "ROCKWELL AUTOMATION INC",
-      "weight": 0.08,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EBAY",
-      "name": "EBAY INC",
+      "symbol": "CMG",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1393,21 +1381,33 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CMG",
-      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "symbol": "PYPL",
+      "name": "PAYPAL HOLDINGS INC",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EBAY",
+      "name": "EBAY INC",
       "weight": 0.08,
       "sector": "Unknown"
     },
     {
       "symbol": "YUM",
       "name": "YUM  BRANDS INC",
-      "weight": 0.08,
+      "weight": 0.07,
       "sector": "Unknown"
     },
     {
       "symbol": "FITB",
       "name": "FIFTH THIRD BANCORP",
-      "weight": 0.08,
+      "weight": 0.07,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ROK",
+      "name": "ROCKWELL AUTOMATION INC",
+      "weight": 0.07,
       "sector": "Unknown"
     },
     {
@@ -1417,14 +1417,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PYPL",
-      "name": "PAYPAL HOLDINGS INC",
-      "weight": 0.07,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NUE",
-      "name": "NUCOR CORP",
+      "symbol": "WAB",
+      "name": "WABTEC CORP",
       "weight": 0.07,
       "sector": "Unknown"
     },
@@ -1435,8 +1429,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "RSG",
-      "name": "REPUBLIC SERVICES INC",
+      "symbol": "COIN",
+      "name": "COINBASE GLOBAL INC  CLASS A",
+      "weight": 0.07,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NUE",
+      "name": "NUCOR CORP",
       "weight": 0.07,
       "sector": "Unknown"
     },
@@ -1453,6 +1453,12 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "RSG",
+      "name": "REPUBLIC SERVICES INC",
+      "weight": 0.07,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "MET",
       "name": "METLIFE INC",
       "weight": 0.07,
@@ -1465,8 +1471,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "COIN",
-      "name": "COINBASE GLOBAL INC  CLASS A",
+      "symbol": "MSCI",
+      "name": "MSCI INC",
+      "weight": 0.07,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MCHP",
+      "name": "MICROCHIP TECHNOLOGY INC",
       "weight": 0.07,
       "sector": "Unknown"
     },
@@ -1483,24 +1495,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "MCHP",
-      "name": "MICROCHIP TECHNOLOGY INC",
-      "weight": 0.07,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ED",
-      "name": "CONSOLIDATED EDISON INC",
-      "weight": 0.07,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MSCI",
-      "name": "MSCI INC",
-      "weight": 0.07,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "OXY",
       "name": "OCCIDENTAL PETROLEUM CORP",
       "weight": 0.07,
@@ -1513,20 +1507,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "VMC",
-      "name": "VULCAN MATERIALS CO",
+      "symbol": "ED",
+      "name": "CONSOLIDATED EDISON INC",
       "weight": 0.07,
       "sector": "Unknown"
     },
     {
-      "symbol": "KR",
-      "name": "KROGER CO",
-      "weight": 0.07,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "DHI",
-      "name": "DR HORTON INC",
+      "symbol": "DDOG",
+      "name": "DATADOG INC   CLASS A",
       "weight": 0.07,
       "sector": "Unknown"
     },
@@ -1543,26 +1531,26 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "DHI",
+      "name": "DR HORTON INC",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "KR",
+      "name": "KROGER CO",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "VMC",
+      "name": "VULCAN MATERIALS CO",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "PCG",
       "name": "P G + E CORP",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ODFL",
-      "name": "OLD DOMINION FREIGHT LINE",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MLM",
-      "name": "MARTIN MARIETTA MATERIALS",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "WEC",
-      "name": "WEC ENERGY GROUP INC",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1573,14 +1561,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CCI",
-      "name": "CROWN CASTLE INC",
+      "symbol": "ODFL",
+      "name": "OLD DOMINION FREIGHT LINE",
       "weight": 0.06,
       "sector": "Unknown"
     },
     {
-      "symbol": "EME",
-      "name": "EMCOR GROUP INC",
+      "symbol": "WEC",
+      "name": "WEC ENERGY GROUP INC",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1591,14 +1579,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DDOG",
-      "name": "DATADOG INC   CLASS A",
+      "symbol": "CCI",
+      "name": "CROWN CASTLE INC",
       "weight": 0.06,
       "sector": "Unknown"
     },
     {
-      "symbol": "NRG",
-      "name": "NRG ENERGY INC",
+      "symbol": "MLM",
+      "name": "MARTIN MARIETTA MATERIALS",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "TTWO",
+      "name": "TAKE TWO INTERACTIVE SOFTWRE",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1609,8 +1603,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TTWO",
-      "name": "TAKE TWO INTERACTIVE SOFTWRE",
+      "symbol": "EME",
+      "name": "EMCOR GROUP INC",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NRG",
+      "name": "NRG ENERGY INC",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "IBKR",
+      "name": "INTERACTIVE BROKERS GRO CL A",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1633,18 +1639,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "IBKR",
-      "name": "INTERACTIVE BROKERS GRO CL A",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "A",
-      "name": "AGILENT TECHNOLOGIES INC",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "weight": 0.06,
@@ -1657,14 +1651,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "GEHC",
-      "name": "GE HEALTHCARE TECHNOLOGY",
+      "symbol": "A",
+      "name": "AGILENT TECHNOLOGIES INC",
       "weight": 0.06,
       "sector": "Unknown"
     },
     {
       "symbol": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GEHC",
+      "name": "GE HEALTHCARE TECHNOLOGY",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1687,32 +1687,26 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "MTB",
-      "name": "M + T BANK CORP",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ADM",
-      "name": "ARCHER DANIELS MIDLAND CO",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "CCL",
       "name": "CARNIVAL CORP",
       "weight": 0.06,
       "sector": "Unknown"
     },
     {
-      "symbol": "HPE",
-      "name": "HEWLETT PACKARD ENTERPRISE",
+      "symbol": "FISV",
+      "name": "FISERV INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "WAT",
-      "name": "WATERS CORP",
+      "symbol": "MTB",
+      "name": "M + T BANK CORP",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "HPE",
+      "name": "HEWLETT PACKARD ENTERPRISE",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1723,32 +1717,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "ADM",
+      "name": "ARCHER DANIELS MIDLAND CO",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "JBL",
       "name": "JABIL INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "OTIS",
-      "name": "OTIS WORLDWIDE CORP",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "FISV",
-      "name": "FISERV INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "XYL",
-      "name": "XYLEM INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "UAL",
-      "name": "UNITED AIRLINES HOLDINGS INC",
+      "symbol": "WAT",
+      "name": "WATERS CORP",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1759,8 +1741,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "IR",
-      "name": "INGERSOLL RAND INC",
+      "symbol": "AXON",
+      "name": "AXON ENTERPRISE INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "OTIS",
+      "name": "OTIS WORLDWIDE CORP",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1783,8 +1771,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DTE",
-      "name": "DTE ENERGY COMPANY",
+      "symbol": "UAL",
+      "name": "UNITED AIRLINES HOLDINGS INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1795,26 +1783,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TDY",
-      "name": "TELEDYNE TECHNOLOGIES INC",
+      "symbol": "XYL",
+      "name": "XYLEM INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EXR",
-      "name": "EXTRA SPACE STORAGE INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "AXON",
-      "name": "AXON ENTERPRISE INC",
+      "symbol": "DTE",
+      "name": "DTE ENERGY COMPANY",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1825,20 +1801,44 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "EXPE",
+      "name": "EXPEDIA GROUP INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EXR",
+      "name": "EXTRA SPACE STORAGE INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "TDY",
+      "name": "TELEDYNE TECHNOLOGIES INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "CPRT",
       "name": "COPART INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "DOV",
-      "name": "DOVER CORP",
+      "symbol": "IR",
+      "name": "INGERSOLL RAND INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "HSY",
-      "name": "HERSHEY CO/THE",
+      "symbol": "PAYX",
+      "name": "PAYCHEX INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1849,26 +1849,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "EXPE",
-      "name": "EXPEDIA GROUP INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "HUBB",
-      "name": "HUBBELL INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "NTRS",
       "name": "NORTHERN TRUST CORP",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "PAYX",
-      "name": "PAYCHEX INC",
+      "symbol": "DOV",
+      "name": "DOVER CORP",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1885,20 +1873,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DOW",
-      "name": "DOW INC",
+      "symbol": "HSY",
+      "name": "HERSHEY CO/THE",
       "weight": 0.05,
       "sector": "Unknown"
     },
     {
-      "symbol": "Q",
-      "name": "QNITY ELECTRONICS INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EIX",
-      "name": "EDISON INTERNATIONAL",
+      "symbol": "HUBB",
+      "name": "HUBBELL INC",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1909,20 +1891,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "Q",
+      "name": "QNITY ELECTRONICS INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DOW",
+      "name": "DOW INC",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "CNP",
       "name": "CENTERPOINT ENERGY INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MTD",
-      "name": "METTLER TOLEDO INTERNATIONAL",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CFG",
-      "name": "CITIZENS FINANCIAL GROUP",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1933,8 +1915,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CASY",
-      "name": "CASEY S GENERAL STORES INC",
+      "symbol": "EIX",
+      "name": "EDISON INTERNATIONAL",
+      "weight": 0.05,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CFG",
+      "name": "CITIZENS FINANCIAL GROUP",
       "weight": 0.05,
       "sector": "Unknown"
     },
@@ -1945,26 +1933,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "CASY",
+      "name": "CASEY S GENERAL STORES INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MTD",
+      "name": "METTLER TOLEDO INTERNATIONAL",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "STLD",
       "name": "STEEL DYNAMICS INC",
-      "weight": 0.05,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "FE",
-      "name": "FIRSTENERGY CORP",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "LYV",
-      "name": "LIVE NATION ENTERTAINMENT IN",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BIIB",
-      "name": "BIOGEN INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -1975,14 +1957,26 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "BIIB",
+      "name": "BIOGEN INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "WDAY",
+      "name": "WORKDAY INC CLASS A",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "SYF",
       "name": "SYNCHRONY FINANCIAL",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "AWK",
-      "name": "AMERICAN WATER WORKS CO INC",
+      "symbol": "FE",
+      "name": "FIRSTENERGY CORP",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -1999,14 +1993,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "WDAY",
-      "name": "WORKDAY INC CLASS A",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PPG",
-      "name": "PPG INDUSTRIES INC",
+      "symbol": "AWK",
+      "name": "AMERICAN WATER WORKS CO INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2017,20 +2005,50 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "VRSK",
+      "name": "VERISK ANALYTICS INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LYV",
+      "name": "LIVE NATION ENTERTAINMENT IN",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ARES",
+      "name": "ARES MANAGEMENT CORP   A",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "FICO",
+      "name": "FAIR ISAAC CORP",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "AVB",
       "name": "AVALONBAY COMMUNITIES INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "CMS",
-      "name": "CMS ENERGY CORP",
+      "symbol": "OMC",
+      "name": "OMNICOM GROUP",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "DXCM",
-      "name": "DEXCOM INC",
+      "symbol": "TPL",
+      "name": "TEXAS PACIFIC LAND CORP",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PPG",
+      "name": "PPG INDUSTRIES INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2047,36 +2065,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "FICO",
-      "name": "FAIR ISAAC CORP",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "OMC",
-      "name": "OMNICOM GROUP",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TSCO",
-      "name": "TRACTOR SUPPLY COMPANY",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "VRSK",
-      "name": "VERISK ANALYTICS INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TPL",
-      "name": "TEXAS PACIFIC LAND CORP",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "HUM",
       "name": "HUMANA INC",
       "weight": 0.04,
@@ -2089,14 +2077,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PHM",
-      "name": "PULTEGROUP INC",
+      "symbol": "TSCO",
+      "name": "TRACTOR SUPPLY COMPANY",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "SBAC",
-      "name": "SBA COMMUNICATIONS CORP",
+      "symbol": "CMS",
+      "name": "CMS ENERGY CORP",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DXCM",
+      "name": "DEXCOM INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2107,8 +2101,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ARES",
-      "name": "ARES MANAGEMENT CORP   A",
+      "symbol": "PHM",
+      "name": "PULTEGROUP INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2119,14 +2113,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "WSM",
       "name": "WILLIAMS SONOMA INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "EXE",
-      "name": "EXPAND ENERGY CORP",
+      "symbol": "SBAC",
+      "name": "SBA COMMUNICATIONS CORP",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2137,44 +2137,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CHD",
-      "name": "CHURCH + DWIGHT CO INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NI",
-      "name": "NISOURCE INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "CPAY",
       "name": "CORPAY INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "LH",
-      "name": "LABCORP HOLDINGS INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EFX",
-      "name": "EQUIFAX INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ALB",
-      "name": "ALBEMARLE CORP",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "STE",
-      "name": "STERIS PLC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2185,20 +2149,44 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "NI",
+      "name": "NISOURCE INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EFX",
+      "name": "EQUIFAX INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CHD",
+      "name": "CHURCH + DWIGHT CO INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LH",
+      "name": "LABCORP HOLDINGS INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "STE",
+      "name": "STERIS PLC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ALB",
+      "name": "ALBEMARLE CORP",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "SW",
       "name": "SMURFIT WESTROCK PLC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "FSLR",
-      "name": "FIRST SOLAR INC",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "DGX",
-      "name": "QUEST DIAGNOSTICS INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2211,18 +2199,18 @@
     {
       "symbol": "EQR",
       "name": "EQUITY RESIDENTIAL",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "KEY",
-      "name": "KEYCORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "LUV",
-      "name": "SOUTHWEST AIRLINES CO",
+      "symbol": "DGX",
+      "name": "QUEST DIAGNOSTICS INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "FSLR",
+      "name": "FIRST SOLAR INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2233,20 +2221,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "LUV",
+      "name": "SOUTHWEST AIRLINES CO",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "KEY",
+      "name": "KEYCORP",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "CHRW",
       "name": "C.H. ROBINSON WORLDWIDE INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "SNA",
-      "name": "SNAP ON INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "WRB",
-      "name": "WR BERKLEY CORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2257,14 +2245,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "EXPD",
-      "name": "EXPEDITORS INTL WASH INC",
+      "symbol": "NTAP",
+      "name": "NETAPP INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "NTAP",
-      "name": "NETAPP INC",
+      "symbol": "WRB",
+      "name": "WR BERKLEY CORP",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EXPD",
+      "name": "EXPEDITORS INTL WASH INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2281,74 +2275,14 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "SNA",
+      "name": "SNAP ON INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "LEN",
       "name": "LENNAR CORP W/D",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ZBH",
-      "name": "ZIMMER BIOMET HOLDINGS INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NVR",
-      "name": "NVR INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "AMCR",
-      "name": "AMCOR PLC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "DD",
-      "name": "DUPONT DE NEMOURS INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EVRG",
-      "name": "EVERGY INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "LYB",
-      "name": "LYONDELLBASELL INDU CL A",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "KHC",
-      "name": "KRAFT HEINZ CO/THE",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "EL",
-      "name": "ESTEE LAUDER COMPANIES CL A",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "L",
-      "name": "LOEWS CORP",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PKG",
-      "name": "PACKAGING CORP OF AMERICA",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BR",
-      "name": "BROADRIDGE FINANCIAL SOLUTIO",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2359,20 +2293,74 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "FTV",
-      "name": "FORTIVE CORP",
+      "symbol": "LYB",
+      "name": "LYONDELLBASELL INDU CL A",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "GIS",
-      "name": "GENERAL MILLS INC",
+      "symbol": "EVRG",
+      "name": "EVERGY INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "IFF",
-      "name": "INTL FLAVORS + FRAGRANCES",
+      "symbol": "BR",
+      "name": "BROADRIDGE FINANCIAL SOLUTIO",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MRNA",
+      "name": "MODERNA INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "CHTR",
+      "name": "CHARTER COMMUNICATIONS INC A",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NVR",
+      "name": "NVR INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EL",
+      "name": "ESTEE LAUDER COMPANIES CL A",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AMCR",
+      "name": "AMCOR PLC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "KHC",
+      "name": "KRAFT HEINZ CO/THE",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "L",
+      "name": "LOEWS CORP",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DD",
+      "name": "DUPONT DE NEMOURS INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ZBH",
+      "name": "ZIMMER BIOMET HOLDINGS INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2389,14 +2377,32 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "FTV",
+      "name": "FORTIVE CORP",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GIS",
+      "name": "GENERAL MILLS INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "LNT",
       "name": "ALLIANT ENERGY CORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "CHTR",
-      "name": "CHARTER COMMUNICATIONS INC A",
+      "symbol": "PKG",
+      "name": "PACKAGING CORP OF AMERICA",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "IFF",
+      "name": "INTL FLAVORS + FRAGRANCES",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2407,26 +2413,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "MRNA",
-      "name": "MODERNA INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "WY",
-      "name": "WEYERHAEUSER CO",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "SATS",
       "name": "ECHOSTAR CORP A",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CNC",
-      "name": "CENTENE CORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2437,26 +2425,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "CNC",
+      "name": "CENTENE CORP",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "HPQ",
       "name": "HP INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "JBHT",
-      "name": "HUNT (JB) TRANSPRT SVCS INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CDW",
-      "name": "CDW CORP/DE",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "BALL",
-      "name": "BALL CORP",
+      "symbol": "WY",
+      "name": "WEYERHAEUSER CO",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2467,8 +2449,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "BG",
-      "name": "BUNGE GLOBAL SA",
+      "symbol": "CDW",
+      "name": "CDW CORP/DE",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "JBHT",
+      "name": "HUNT (JB) TRANSPRT SVCS INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "BALL",
+      "name": "BALL CORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2479,8 +2473,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "LII",
-      "name": "LENNOX INTERNATIONAL INC",
+      "symbol": "CSGP",
+      "name": "COSTAR GROUP INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2491,14 +2485,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "INCY",
-      "name": "INCYTE CORP",
+      "symbol": "PTC",
+      "name": "PTC INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "VTRS",
-      "name": "VIATRIS INC",
+      "symbol": "BG",
+      "name": "BUNGE GLOBAL SA",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "INCY",
+      "name": "INCYTE CORP",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2509,14 +2509,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ROL",
-      "name": "ROLLINS INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PTC",
-      "name": "PTC INC",
+      "symbol": "VTRS",
+      "name": "VIATRIS INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2527,14 +2521,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "TXT",
-      "name": "TEXTRON INC",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CSGP",
-      "name": "COSTAR GROUP INC",
+      "symbol": "ROL",
+      "name": "ROLLINS INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2545,20 +2533,20 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "TXT",
+      "name": "TEXTRON INC",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "HII",
       "name": "HUNTINGTON INGALLS INDUSTRIE",
       "weight": 0.03,
       "sector": "Unknown"
     },
     {
-      "symbol": "IEX",
-      "name": "IDEX CORP",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "GPC",
-      "name": "GENUINE PARTS CO",
+      "symbol": "LII",
+      "name": "LENNOX INTERNATIONAL INC",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2569,8 +2557,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "INVH",
-      "name": "INVITATION HOMES INC",
+      "symbol": "GPC",
+      "name": "GENUINE PARTS CO",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2581,8 +2569,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PNR",
-      "name": "PENTAIR PLC",
+      "symbol": "IEX",
+      "name": "IDEX CORP",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "INVH",
+      "name": "INVITATION HOMES INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2599,6 +2593,18 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "TYL",
+      "name": "TYLER TECHNOLOGIES INC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PNR",
+      "name": "PENTAIR PLC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "RL",
       "name": "RALPH LAUREN CORP",
       "weight": 0.02,
@@ -2611,26 +2617,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "COO",
-      "name": "COOPER COS INC/THE",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TYL",
-      "name": "TYLER TECHNOLOGIES INC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "EG",
       "name": "EVEREST GROUP LTD",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2641,8 +2629,26 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "COO",
+      "name": "COOPER COS INC/THE",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "HST",
       "name": "HOST HOTELS + RESORTS INC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "REG",
+      "name": "REGENCY CENTERS CORP",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2659,14 +2665,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "REG",
-      "name": "REGENCY CENTERS CORP",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "MAS",
-      "name": "MASCO CORP",
+      "symbol": "AKAM",
+      "name": "AKAMAI TECHNOLOGIES INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2677,20 +2677,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "AKAM",
-      "name": "AKAMAI TECHNOLOGIES INC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "ALLE",
-      "name": "ALLEGION PLC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "CLX",
-      "name": "CLOROX COMPANY",
+      "symbol": "MAS",
+      "name": "MASCO CORP",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2701,14 +2689,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "APTV",
-      "name": "APTIV PLC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PNW",
-      "name": "PINNACLE WEST CAPITAL",
+      "symbol": "HAS",
+      "name": "HASBRO INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2719,14 +2701,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "HAS",
-      "name": "HASBRO INC",
+      "symbol": "CLX",
+      "name": "CLOROX COMPANY",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "GNRC",
-      "name": "GENERAC HOLDINGS INC",
+      "symbol": "PNW",
+      "name": "PINNACLE WEST CAPITAL",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2737,8 +2719,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "GL",
-      "name": "GLOBE LIFE INC",
+      "symbol": "APTV",
+      "name": "APTIV PLC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ALLE",
+      "name": "ALLEGION PLC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "GNRC",
+      "name": "GENERAC HOLDINGS INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2749,14 +2743,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DPZ",
-      "name": "DOMINO S PIZZA INC",
+      "symbol": "GL",
+      "name": "GLOBE LIFE INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "SWK",
-      "name": "STANLEY BLACK + DECKER INC",
+      "symbol": "DPZ",
+      "name": "DOMINO S PIZZA INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2773,20 +2767,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "JKHY",
-      "name": "JACK HENRY + ASSOCIATES INC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "IVZ",
-      "name": "INVESCO LTD",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "GDDY",
       "name": "GODADDY INC   CLASS A",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "JKHY",
+      "name": "JACK HENRY + ASSOCIATES INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2797,14 +2785,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "UDR",
-      "name": "UDR INC",
+      "symbol": "IVZ",
+      "name": "INVESCO LTD",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "RVTY",
-      "name": "REVVITY INC",
+      "symbol": "IT",
+      "name": "GARTNER INC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "UDR",
+      "name": "UDR INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2815,8 +2809,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "IT",
-      "name": "GARTNER INC",
+      "symbol": "SWK",
+      "name": "STANLEY BLACK + DECKER INC",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "RVTY",
+      "name": "REVVITY INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2833,20 +2833,20 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "SJM",
       "name": "JM SMUCKER CO/THE",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "BLDR",
-      "name": "BUILDERS FIRSTSOURCE INC",
+      "symbol": "TTD",
+      "name": "TRADE DESK INC/THE  CLASS A",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2857,14 +2857,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "NWSA",
-      "name": "NEWS CORP   CLASS A",
+      "symbol": "BLDR",
+      "name": "BUILDERS FIRSTSOURCE INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "TTD",
-      "name": "TRADE DESK INC/THE  CLASS A",
+      "symbol": "NWSA",
+      "name": "NEWS CORP   CLASS A",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2881,14 +2881,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CRL",
-      "name": "CHARLES RIVER LABORATORIES",
+      "symbol": "WYNN",
+      "name": "WYNN RESORTS LTD",
       "weight": 0.01,
       "sector": "Unknown"
     },
     {
-      "symbol": "WYNN",
-      "name": "WYNN RESORTS LTD",
+      "symbol": "CRL",
+      "name": "CHARLES RIVER LABORATORIES",
       "weight": 0.01,
       "sector": "Unknown"
     },
@@ -2899,14 +2899,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "FRT",
-      "name": "FEDERAL REALTY INVS TRUST",
+      "symbol": "FDS",
+      "name": "FACTSET RESEARCH SYSTEMS INC",
       "weight": 0.01,
       "sector": "Unknown"
     },
     {
-      "symbol": "FDS",
-      "name": "FACTSET RESEARCH SYSTEMS INC",
+      "symbol": "FRT",
+      "name": "FEDERAL REALTY INVS TRUST",
       "weight": 0.01,
       "sector": "Unknown"
     },
@@ -2941,18 +2941,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "AOS",
-      "name": "SMITH (A.O.) CORP",
-      "weight": 0.01,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "TAP",
-      "name": "MOLSON COORS BEVERAGE CO   B",
-      "weight": 0.01,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "POOL",
       "name": "POOL CORP",
       "weight": 0.01,
@@ -2965,14 +2953,26 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "EPAM",
-      "name": "EPAM SYSTEMS INC",
+      "symbol": "TAP",
+      "name": "MOLSON COORS BEVERAGE CO   B",
       "weight": 0.01,
       "sector": "Unknown"
     },
     {
       "symbol": "MGM",
       "name": "MGM RESORTS INTERNATIONAL",
+      "weight": 0.01,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "AOS",
+      "name": "SMITH (A.O.) CORP",
+      "weight": 0.01,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "EPAM",
+      "name": "EPAM SYSTEMS INC",
       "weight": 0.01,
       "sector": "Unknown"
     },
