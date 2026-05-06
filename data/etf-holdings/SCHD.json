@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-05-05",
+  "asOfDate": "2026-05-06",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-05-05T22:55:31.290851+00:00",
+  "updatedAt": "2026-05-06T22:53:18.047777+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 5.35,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "weight": 5.11,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "weight": 4.31,
+      "sector": "Technology"
+    },
+    {
       "symbol": "CVX",
       "name": "Chevron Corp",
-      "weight": 4.68,
+      "weight": 4.16,
       "sector": "Energy"
     },
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "weight": 4.33,
+      "weight": 4.07,
       "sector": "Energy"
-    },
-    {
-      "symbol": "VZ",
-      "name": "Verizon Communications Inc",
-      "weight": 4.06,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "MRK",
-      "name": "Merck & Co Inc",
-      "weight": 4.06,
-      "sector": "Healthcare"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Co",
-      "weight": 4.04,
+      "weight": 4.06,
       "sector": "Consumer Defensive"
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo Inc",
-      "weight": 3.95,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "TXN",
-      "name": "Texas Instruments Inc",
       "weight": 3.81,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "AMGN",
-      "name": "Amgen Inc",
-      "weight": 3.8,
-      "sector": "Healthcare"
+      "sector": "Consumer Defensive"
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Co",
-      "weight": 3.78,
+      "weight": 3.72,
       "sector": "Consumer Defensive"
     },
     {
-      "symbol": "ABT",
-      "name": "Abbott Laboratories",
-      "weight": 3.72,
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "weight": 3.71,
       "sector": "Healthcare"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "weight": 3.66,
+      "sector": "Communication Services"
     }
   ]
 }

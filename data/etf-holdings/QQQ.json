@@ -1,70 +1,70 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-05-05",
+  "asOfDate": "2026-05-06",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-05-05T22:55:28.692332+00:00",
+  "updatedAt": "2026-05-06T22:53:16.229994+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.68,
+      "weight": 8.53,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.63,
+      "weight": 7.01,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.63,
+      "weight": 5.33,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.58,
+      "weight": 5.01,
       "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "TSLA",
-      "name": "Tesla Inc",
-      "weight": 3.8,
-      "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "META",
-      "name": "Meta Platforms Inc Class A",
-      "weight": 3.46,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "WMT",
-      "name": "Walmart Inc",
-      "weight": 3.44,
-      "sector": "Consumer Defensive"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.43,
+      "weight": 3.94,
       "sector": "Communication Services"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 3.2,
+      "weight": 3.65,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 3.01,
+      "weight": 3.48,
       "sector": "Technology"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 3.35,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.18,
+      "sector": "Communication Services"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "weight": 3.13,
+      "sector": "Consumer Defensive"
     }
   ]
 }
