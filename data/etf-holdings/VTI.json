@@ -1,69 +1,69 @@
 {
   "symbol": "VTI",
   "name": "Vanguard Total Stock Market Index Fund ETF Shares",
-  "asOfDate": "2026-05-15",
+  "asOfDate": "2026-05-18",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-05-15T22:54:12.972038+00:00",
+  "updatedAt": "2026-05-18T23:01:40.003917+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 6.41,
+      "weight": 6.64,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 5.93,
+      "weight": 5.74,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 4.37,
+      "weight": 4.36,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 3.2,
+      "weight": 3.69,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 2.66,
+      "weight": 3.23,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 2.33,
+      "weight": 2.85,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.11,
+      "weight": 2.54,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 1.99,
+      "weight": 1.93,
       "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 1.66,
+      "weight": 1.55,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc Class B",
-      "weight": 1.36,
+      "weight": 1.22,
       "sector": "Financial Services"
     }
   ]
