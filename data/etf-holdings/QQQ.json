@@ -1,9 +1,9 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-05-18",
+  "asOfDate": "2026-05-19",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-05-18T23:01:35.923096+00:00",
+  "updatedAt": "2026-05-19T23:01:34.621891+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
