@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-06-03",
+  "asOfDate": "2026-06-04",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-06-03T23:43:38.175293+00:00",
+  "updatedAt": "2026-06-04T23:09:13.957370+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "weight": 6.73,
+      "sector": "Technology"
+    },
+    {
       "symbol": "TXN",
       "name": "Texas Instruments Inc",
-      "weight": 5.35,
+      "weight": 5.9,
       "sector": "Technology"
     },
     {
       "symbol": "UNH",
       "name": "UnitedHealth Group Inc",
-      "weight": 5.11,
+      "weight": 5.09,
       "sector": "Healthcare"
-    },
-    {
-      "symbol": "QCOM",
-      "name": "Qualcomm Inc",
-      "weight": 4.31,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron Corp",
-      "weight": 4.16,
-      "sector": "Energy"
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "weight": 4.07,
-      "sector": "Energy"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Co",
-      "weight": 4.06,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "PEP",
-      "name": "PepsiCo Inc",
-      "weight": 3.81,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "PG",
-      "name": "Procter & Gamble Co",
-      "weight": 3.72,
+      "weight": 3.95,
       "sector": "Consumer Defensive"
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co Inc",
-      "weight": 3.71,
+      "weight": 3.86,
       "sector": "Healthcare"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 3.83,
+      "sector": "Energy"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc",
-      "weight": 3.66,
+      "weight": 3.65,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "weight": 3.54,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 3.51,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "weight": 3.47,
+      "sector": "Healthcare"
     }
   ]
 }
