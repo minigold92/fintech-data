@@ -1,15 +1,15 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-06-15",
+  "asOfDate": "2026-06-16",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-06-15T23:45:12.023960+00:00",
+  "updatedAt": "2026-06-16T23:23:28.094890+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.15,
+      "weight": 8.16,
       "sector": "Technology"
     },
     {
@@ -21,13 +21,13 @@
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.31,
+      "weight": 5.32,
       "sector": "Technology"
     },
     {
       "symbol": "MU",
       "name": "Micron Technology Inc",
-      "weight": 4.79,
+      "weight": 4.8,
       "sector": "Technology"
     },
     {

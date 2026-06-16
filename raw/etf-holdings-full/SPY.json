@@ -1,9 +1,9 @@
 {
   "symbol": "SPY",
   "name": "State Street SPDR S&P 500 ETF Trust",
-  "asOfDate": "2026-06-15",
+  "asOfDate": "2026-06-16",
   "source": "SSGA",
-  "updatedAt": "2026-06-15T23:45:20.392709+00:00",
+  "updatedAt": "2026-06-16T23:23:42.277611+00:00",
   "holdingsCount": 504,
   "holdings": [
     {
@@ -51,7 +51,7 @@
     {
       "symbol": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "weight": 1.91,
+      "weight": 2.0,
       "sector": "Unknown"
     },
     {
@@ -163,14 +163,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "BAC",
-      "name": "BANK OF AMERICA CORP",
+      "symbol": "UNH",
+      "name": "UNITEDHEALTH GROUP INC",
       "weight": 0.57,
       "sector": "Unknown"
     },
     {
-      "symbol": "UNH",
-      "name": "UNITEDHEALTH GROUP INC",
+      "symbol": "BAC",
+      "name": "BANK OF AMERICA CORP",
       "weight": 0.57,
       "sector": "Unknown"
     },
@@ -225,7 +225,7 @@
     {
       "symbol": "KO",
       "name": "COCA COLA CO/THE",
-      "weight": 0.49,
+      "weight": 0.48,
       "sector": "Unknown"
     },
     {
@@ -243,7 +243,7 @@
     {
       "symbol": "MRK",
       "name": "MERCK + CO. INC.",
-      "weight": 0.45,
+      "weight": 0.44,
       "sector": "Unknown"
     },
     {
@@ -511,14 +511,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PLD",
-      "name": "PROLOGIS INC",
+      "symbol": "COP",
+      "name": "CONOCOPHILLIPS",
       "weight": 0.21,
       "sector": "Unknown"
     },
     {
-      "symbol": "COP",
-      "name": "CONOCOPHILLIPS",
+      "symbol": "PLD",
+      "name": "PROLOGIS INC",
       "weight": 0.21,
       "sector": "Unknown"
     },
@@ -553,14 +553,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "PGR",
-      "name": "PROGRESSIVE CORP",
+      "symbol": "VRT",
+      "name": "VERTIV HOLDINGS CO A",
       "weight": 0.18,
       "sector": "Unknown"
     },
     {
-      "symbol": "MO",
-      "name": "ALTRIA GROUP INC",
+      "symbol": "PGR",
+      "name": "PROGRESSIVE CORP",
       "weight": 0.18,
       "sector": "Unknown"
     },
@@ -571,8 +571,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "VRT",
-      "name": "VERTIV HOLDINGS CO A",
+      "symbol": "MO",
+      "name": "ALTRIA GROUP INC",
       "weight": 0.18,
       "sector": "Unknown"
     },
@@ -757,14 +757,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ELV",
-      "name": "ELEVANCE HEALTH INC",
+      "symbol": "JCI",
+      "name": "JOHNSON CONTROLS INTERNATION",
       "weight": 0.14,
       "sector": "Unknown"
     },
     {
-      "symbol": "JCI",
-      "name": "JOHNSON CONTROLS INTERNATION",
+      "symbol": "ELV",
+      "name": "ELEVANCE HEALTH INC",
       "weight": 0.14,
       "sector": "Unknown"
     },
@@ -865,14 +865,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "HLT",
-      "name": "HILTON WORLDWIDE HOLDINGS IN",
+      "symbol": "ICE",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
       "weight": 0.12,
       "sector": "Unknown"
     },
     {
-      "symbol": "ICE",
-      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "symbol": "HLT",
+      "name": "HILTON WORLDWIDE HOLDINGS IN",
       "weight": 0.12,
       "sector": "Unknown"
     },
@@ -1045,14 +1045,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ECL",
-      "name": "ECOLAB INC",
+      "symbol": "LITE",
+      "name": "LUMENTUM HOLDINGS INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
     {
-      "symbol": "LITE",
-      "name": "LUMENTUM HOLDINGS INC",
+      "symbol": "ECL",
+      "name": "ECOLAB INC",
       "weight": 0.11,
       "sector": "Unknown"
     },
@@ -1189,6 +1189,12 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "DLR",
+      "name": "DIGITAL REALTY TRUST INC",
+      "weight": 0.09,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "NUE",
       "name": "NUCOR CORP",
       "weight": 0.09,
@@ -1197,12 +1203,6 @@
     {
       "symbol": "CTAS",
       "name": "CINTAS CORP",
-      "weight": 0.09,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "DLR",
-      "name": "DIGITAL REALTY TRUST INC",
       "weight": 0.09,
       "sector": "Unknown"
     },
@@ -1327,12 +1327,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DVN",
-      "name": "DEVON ENERGY CORP",
-      "weight": 0.08,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "AZO",
       "name": "AUTOZONE INC",
       "weight": 0.08,
@@ -1353,6 +1347,12 @@
     {
       "symbol": "ETR",
       "name": "ENTERGY CORP",
+      "weight": 0.08,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "DVN",
+      "name": "DEVON ENERGY CORP",
       "weight": 0.08,
       "sector": "Unknown"
     },
@@ -1537,12 +1537,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "CCI",
-      "name": "CROWN CASTLE INC",
-      "weight": 0.06,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "VTR",
       "name": "VENTAS INC",
       "weight": 0.06,
@@ -1579,6 +1573,12 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "GRMN",
+      "name": "GARMIN LTD",
+      "weight": 0.06,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "VMC",
       "name": "VULCAN MATERIALS CO",
       "weight": 0.06,
@@ -1591,8 +1591,8 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "GRMN",
-      "name": "GARMIN LTD",
+      "symbol": "CCI",
+      "name": "CROWN CASTLE INC",
       "weight": 0.06,
       "sector": "Unknown"
     },
@@ -1909,12 +1909,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "ARES",
-      "name": "ARES MANAGEMENT CORP   A",
-      "weight": 0.04,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "EIX",
       "name": "EDISON INTERNATIONAL",
       "weight": 0.04,
@@ -1929,6 +1923,12 @@
     {
       "symbol": "NRG",
       "name": "NRG ENERGY INC",
+      "weight": 0.04,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "ARES",
+      "name": "ARES MANAGEMENT CORP   A",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2023,14 +2023,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "VRSK",
-      "name": "VERISK ANALYTICS INC",
+      "symbol": "DG",
+      "name": "DOLLAR GENERAL CORP",
       "weight": 0.04,
       "sector": "Unknown"
     },
     {
-      "symbol": "DG",
-      "name": "DOLLAR GENERAL CORP",
+      "symbol": "VRSK",
+      "name": "VERISK ANALYTICS INC",
       "weight": 0.04,
       "sector": "Unknown"
     },
@@ -2263,6 +2263,12 @@
       "sector": "Unknown"
     },
     {
+      "symbol": "PKG",
+      "name": "PACKAGING CORP OF AMERICA",
+      "weight": 0.03,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "KHC",
       "name": "KRAFT HEINZ CO/THE",
       "weight": 0.03,
@@ -2277,12 +2283,6 @@
     {
       "symbol": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "weight": 0.03,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PKG",
-      "name": "PACKAGING CORP OF AMERICA",
       "weight": 0.03,
       "sector": "Unknown"
     },
@@ -2545,12 +2545,6 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "LDOS",
-      "name": "LEIDOS HOLDINGS INC",
-      "weight": 0.02,
-      "sector": "Unknown"
-    },
-    {
       "symbol": "NDSN",
       "name": "NORDSON CORP",
       "weight": 0.02,
@@ -2583,6 +2577,12 @@
     {
       "symbol": "MAS",
       "name": "MASCO CORP",
+      "weight": 0.02,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "LDOS",
+      "name": "LEIDOS HOLDINGS INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
@@ -2845,14 +2845,14 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "DPZ",
-      "name": "DOMINO S PIZZA INC",
+      "symbol": "IT",
+      "name": "GARTNER INC",
       "weight": 0.02,
       "sector": "Unknown"
     },
     {
-      "symbol": "IT",
-      "name": "GARTNER INC",
+      "symbol": "DPZ",
+      "name": "DOMINO S PIZZA INC",
       "weight": 0.02,
       "sector": "Unknown"
     },

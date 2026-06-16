@@ -1,9 +1,9 @@
 {
   "symbol": "SPY",
   "name": "State Street SPDR S&P 500 ETF Trust",
-  "asOfDate": "2026-06-15",
+  "asOfDate": "2026-06-16",
   "source": "SSGA",
-  "updatedAt": "2026-06-15T23:45:20.069451+00:00",
+  "updatedAt": "2026-06-16T23:23:41.662192+00:00",
   "holdingsCount": 504,
   "holdings": [
     {
@@ -51,7 +51,7 @@
     {
       "symbol": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "weight": 1.91,
+      "weight": 2.0,
       "sector": "Communication Services"
     },
     {
@@ -163,16 +163,16 @@
       "sector": "Healthcare"
     },
     {
-      "symbol": "BAC",
-      "name": "BANK OF AMERICA CORP",
-      "weight": 0.57,
-      "sector": "Financial Services"
-    },
-    {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
       "weight": 0.57,
       "sector": "Healthcare"
+    },
+    {
+      "symbol": "BAC",
+      "name": "BANK OF AMERICA CORP",
+      "weight": 0.57,
+      "sector": "Financial Services"
     },
     {
       "symbol": "GE",
@@ -225,7 +225,7 @@
     {
       "symbol": "KO",
       "name": "COCA COLA CO/THE",
-      "weight": 0.49,
+      "weight": 0.48,
       "sector": "Consumer Defensive"
     },
     {
@@ -243,7 +243,7 @@
     {
       "symbol": "MRK",
       "name": "MERCK + CO. INC.",
-      "weight": 0.45,
+      "weight": 0.44,
       "sector": "Healthcare"
     },
     {
