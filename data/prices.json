@@ -1,7 +1,7 @@
 {
-  "asOfDate": "2026-06-18",
+  "asOfDate": "2026-06-19",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-06-18T23:45:27.815177+00:00",
+  "updatedAt": "2026-06-19T22:57:37.491163+00:00",
   "prices": {
     "VOO": {
       "price": 688.11,
@@ -25,8 +25,8 @@
     },
     "SPY": {
       "price": 746.74,
-      "change": 5.78,
-      "changePercent": 0.78
+      "change": 7.68,
+      "changePercent": 1.04
     },
     "AAPL": {
       "price": 298.01,
