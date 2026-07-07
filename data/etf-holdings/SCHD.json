@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-07-06",
+  "asOfDate": "2026-07-07",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-07-06T23:07:28.963907+00:00",
+  "updatedAt": "2026-07-07T23:01:10.103493+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
-      "symbol": "QCOM",
-      "name": "Qualcomm Inc",
-      "weight": 6.73,
-      "sector": "Technology"
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "weight": 4.52,
+      "sector": "Healthcare"
     },
     {
-      "symbol": "TXN",
-      "name": "Texas Instruments Inc",
-      "weight": 5.9,
-      "sector": "Technology"
+      "symbol": "HD",
+      "name": "The Home Depot Inc",
+      "weight": 4.49,
+      "sector": "Consumer Cyclical"
     },
     {
       "symbol": "UNH",
       "name": "UnitedHealth Group Inc",
-      "weight": 5.09,
+      "weight": 4.46,
       "sector": "Healthcare"
-    },
-    {
-      "symbol": "KO",
-      "name": "Coca-Cola Co",
-      "weight": 3.95,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "MRK",
-      "name": "Merck & Co Inc",
-      "weight": 3.86,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron Corp",
-      "weight": 3.83,
-      "sector": "Energy"
-    },
-    {
-      "symbol": "VZ",
-      "name": "Verizon Communications Inc",
-      "weight": 3.65,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "PG",
-      "name": "Procter & Gamble Co",
-      "weight": 3.54,
-      "sector": "Consumer Defensive"
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "weight": 3.51,
-      "sector": "Energy"
     },
     {
       "symbol": "AMGN",
       "name": "Amgen Inc",
-      "weight": 3.47,
+      "weight": 4.27,
       "sector": "Healthcare"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "weight": 4.27,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "weight": 4.25,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Co",
+      "weight": 4.21,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc",
+      "weight": 3.9,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "weight": 3.79,
+      "sector": "Communication Services"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 3.71,
+      "sector": "Technology"
     }
   ]
 }

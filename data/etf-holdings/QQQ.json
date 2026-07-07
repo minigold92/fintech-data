@@ -1,69 +1,69 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-07-06",
+  "asOfDate": "2026-07-07",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-07-06T23:07:26.877778+00:00",
+  "updatedAt": "2026-07-07T23:01:07.997473+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.16,
+      "weight": 7.58,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.28,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "MSFT",
-      "name": "Microsoft Corp",
-      "weight": 5.32,
+      "weight": 6.66,
       "sector": "Technology"
     },
     {
       "symbol": "MU",
       "name": "Micron Technology Inc",
-      "weight": 4.8,
+      "weight": 5.63,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "weight": 4.34,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "weight": 4.1,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.62,
+      "weight": 4.01,
       "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices Inc",
-      "weight": 3.69,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc Class A",
-      "weight": 3.52,
-      "sector": "Communication Services"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 3.46,
+      "weight": 3.29,
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "AVGO",
-      "name": "Broadcom Inc",
-      "weight": 3.37,
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc Class A",
+      "weight": 3.26,
+      "sector": "Communication Services"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "weight": 3.03,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 3.25,
+      "weight": 3.02,
       "sector": "Communication Services"
     }
   ]
