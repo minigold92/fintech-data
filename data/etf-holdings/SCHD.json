@@ -1,9 +1,9 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-07-10",
+  "asOfDate": "2026-07-13",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-07-10T22:58:39.694408+00:00",
+  "updatedAt": "2026-07-13T22:55:45.472507+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
