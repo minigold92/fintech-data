@@ -3,25 +3,25 @@
   "name": "State Street SPDR S&P 500 ETF Trust",
   "asOfDate": "2026-08-07",
   "source": "SSGA",
-  "updatedAt": "2026-08-07T01:29:32.330273+00:00",
+  "updatedAt": "2026-08-07T22:34:26.202388+00:00",
   "holdingsCount": 504,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 7.99,
+      "weight": 8.0,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "APPLE INC",
-      "weight": 6.87,
+      "weight": 6.92,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 5.45,
+      "weight": 5.6,
       "sector": "Technology"
     },
     {
@@ -33,19 +33,19 @@
     {
       "symbol": "GOOGL",
       "name": "ALPHABET INC CL A",
-      "weight": 3.2,
+      "weight": 3.16,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "BROADCOM INC",
-      "weight": 2.98,
+      "weight": 3.0,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "ALPHABET INC CL C",
-      "weight": 2.56,
+      "weight": 2.54,
       "sector": "Communication Services"
     },
     {
@@ -57,25 +57,25 @@
     {
       "symbol": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "weight": 1.52,
+      "weight": 1.5,
       "sector": "Technology"
-    },
-    {
-      "symbol": "JPM",
-      "name": "JPMORGAN CHASE + CO",
-      "weight": 1.45,
-      "sector": "Financial Services"
     },
     {
       "symbol": "BRK.B",
       "name": "BERKSHIRE HATHAWAY INC CL B",
-      "weight": 1.43,
+      "weight": 1.45,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMORGAN CHASE + CO",
+      "weight": 1.44,
+      "sector": "Financial Services"
     },
     {
       "symbol": "LLY",
       "name": "ELI LILLY + CO",
-      "weight": 1.39,
+      "weight": 1.42,
       "sector": "Healthcare"
     },
     {
@@ -87,13 +87,13 @@
     {
       "symbol": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "weight": 1.18,
+      "weight": 1.2,
       "sector": "Technology"
     },
     {
       "symbol": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP",
-      "weight": 0.95,
+      "weight": 0.97,
       "sector": "Energy"
     },
     {
@@ -105,7 +105,7 @@
     {
       "symbol": "V",
       "name": "VISA INC CLASS A SHARES",
-      "weight": 0.92,
+      "weight": 0.93,
       "sector": "Financial Services"
     },
     {
@@ -123,13 +123,13 @@
     {
       "symbol": "INTC",
       "name": "INTEL CORP",
-      "weight": 0.72,
+      "weight": 0.71,
       "sector": "Technology"
     },
     {
       "symbol": "MA",
       "name": "MASTERCARD INC   A",
-      "weight": 0.69,
+      "weight": 0.7,
       "sector": "Financial Services"
     },
     {
@@ -139,16 +139,16 @@
       "sector": "Healthcare"
     },
     {
-      "symbol": "AMAT",
-      "name": "APPLIED MATERIALS INC",
-      "weight": 0.64,
-      "sector": "Technology"
-    },
-    {
       "symbol": "COST",
       "name": "COSTCO WHOLESALE CORP",
       "weight": 0.63,
       "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "AMAT",
+      "name": "APPLIED MATERIALS INC",
+      "weight": 0.63,
+      "sector": "Technology"
     },
     {
       "symbol": "BAC",
@@ -159,13 +159,13 @@
     {
       "symbol": "CAT",
       "name": "CATERPILLAR INC",
-      "weight": 0.6,
+      "weight": 0.59,
       "sector": "Industrials"
     },
     {
       "symbol": "GE",
       "name": "GENERAL ELECTRIC",
-      "weight": 0.6,
+      "weight": 0.59,
       "sector": "Industrials"
     },
     {
@@ -177,20 +177,14 @@
     {
       "symbol": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
-      "weight": 0.56,
+      "weight": 0.55,
       "sector": "Healthcare"
     },
     {
       "symbol": "PLTR",
       "name": "PALANTIR TECHNOLOGIES INC A",
-      "weight": 0.55,
+      "weight": 0.54,
       "sector": "Technology"
-    },
-    {
-      "symbol": "HD",
-      "name": "HOME DEPOT INC",
-      "weight": 0.53,
-      "sector": "Consumer Cyclical"
     },
     {
       "symbol": "CVX",
@@ -199,9 +193,15 @@
       "sector": "Energy"
     },
     {
+      "symbol": "HD",
+      "name": "HOME DEPOT INC",
+      "weight": 0.52,
+      "sector": "Consumer Cyclical"
+    },
+    {
       "symbol": "PG",
       "name": "PROCTER + GAMBLE CO/THE",
-      "weight": 0.51,
+      "weight": 0.52,
       "sector": "Consumer Defensive"
     },
     {
@@ -217,16 +217,16 @@
       "sector": "Healthcare"
     },
     {
-      "symbol": "GS",
-      "name": "GOLDMAN SACHS GROUP INC",
-      "weight": 0.47,
-      "sector": "Financial Services"
-    },
-    {
       "symbol": "NFLX",
       "name": "NETFLIX INC",
       "weight": 0.47,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "GS",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "weight": 0.46,
+      "sector": "Financial Services"
     },
     {
       "symbol": "RTX",
@@ -255,7 +255,7 @@
     {
       "symbol": "WFC",
       "name": "WELLS FARGO + CO",
-      "weight": 0.41,
+      "weight": 0.4,
       "sector": "Financial Services"
     },
     {
@@ -285,7 +285,7 @@
     {
       "symbol": "C",
       "name": "CITIGROUP INC",
-      "weight": 0.35,
+      "weight": 0.34,
       "sector": "Financial Services"
     },
     {
