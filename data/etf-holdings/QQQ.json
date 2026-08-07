@@ -1,69 +1,69 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-08-05",
+  "asOfDate": "2026-08-07",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-08-05T22:58:23.847911+00:00",
+  "updatedAt": "2026-08-07T01:29:26.760263+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 7.58,
+      "weight": 8.04,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 6.66,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology Inc",
-      "weight": 5.63,
+      "weight": 7.51,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 4.34,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices Inc",
-      "weight": 4.1,
+      "weight": 5.71,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.01,
+      "weight": 4.83,
       "sector": "Consumer Cyclical"
     },
     {
-      "symbol": "TSLA",
-      "name": "Tesla Inc",
-      "weight": 3.29,
-      "sector": "Consumer Cyclical"
+      "symbol": "MU",
+      "name": "Micron Technology Inc",
+      "weight": 4.24,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "weight": 3.55,
+      "sector": "Technology"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.26,
+      "weight": 3.43,
       "sector": "Communication Services"
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel Corp",
-      "weight": 3.03,
-      "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 3.02,
+      "weight": 3.22,
+      "sector": "Communication Services"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "weight": 3.05,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.73,
       "sector": "Communication Services"
     }
   ]
