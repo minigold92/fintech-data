@@ -1,9 +1,9 @@
 {
-  "asOfDate": "2026-08-10",
-  "updatedAt": "2026-08-10T22:36:34.036905+00:00",
+  "asOfDate": "2026-08-11",
+  "updatedAt": "2026-08-11T22:40:50.561937+00:00",
   "etfs": {
     "VOO": {
-      "name": "VOO",
+      "name": "Vanguard S&P 500 ETF",
       "holdingsCount": 10,
       "source": "Yahoo Finance"
     },
