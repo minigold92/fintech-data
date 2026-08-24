@@ -1,62 +1,62 @@
 {
-  "asOfDate": "2026-08-21",
+  "asOfDate": "2026-08-24",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-08-21T22:23:38.634493+00:00",
+  "updatedAt": "2026-08-24T22:25:06.906490+00:00",
   "prices": {
     "VOO": {
-      "price": 703.71,
-      "change": 2.7,
-      "changePercent": 0.39
+      "price": 701.83,
+      "change": -1.88,
+      "changePercent": -0.27
     },
     "QQQ": {
-      "price": 713.44,
-      "change": 2.51,
-      "changePercent": 0.35
+      "price": 706.32,
+      "change": -7.12,
+      "changePercent": -1.0
     },
     "SCHD": {
-      "price": 35.11,
-      "change": 0.28,
-      "changePercent": 0.8
+      "price": 35.21,
+      "change": 0.1,
+      "changePercent": 0.28
     },
     "VTI": {
-      "price": 378.24,
-      "change": 1.66,
-      "changePercent": 0.44
+      "price": 377.07,
+      "change": -1.17,
+      "changePercent": -0.31
     },
     "SPY": {
-      "price": 765.72,
-      "change": 3.12,
-      "changePercent": 0.41
+      "price": 763.47,
+      "change": -2.25,
+      "changePercent": -0.29
     },
     "AAPL": {
-      "price": 309.35,
-      "change": -1.95,
-      "changePercent": -0.63
+      "price": 310.34,
+      "change": 0.99,
+      "changePercent": 0.32
     },
     "MSFT": {
-      "price": 483.24,
-      "change": 2.09,
-      "changePercent": 0.43
+      "price": 487.31,
+      "change": 4.07,
+      "changePercent": 0.84
     },
     "GOOGL": {
-      "price": 344.82,
-      "change": 4.15,
-      "changePercent": 1.22
+      "price": 348.06,
+      "change": 3.24,
+      "changePercent": 0.94
     },
     "AMZN": {
-      "price": 258.63,
-      "change": -1.48,
-      "changePercent": -0.57
+      "price": 262.07,
+      "change": 3.44,
+      "changePercent": 1.33
     },
     "NVDA": {
-      "price": 214.72,
-      "change": -2.13,
-      "changePercent": -0.98
+      "price": 208.48,
+      "change": -6.24,
+      "changePercent": -2.91
     },
     "TSLA": {
-      "price": 362.86,
-      "change": 17.73,
-      "changePercent": 5.14
+      "price": 348.95,
+      "change": -13.91,
+      "changePercent": -3.83
     }
   }
 }
