@@ -1,7 +1,7 @@
 {
-  "asOfDate": "2026-09-04",
+  "asOfDate": "2026-09-08",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-09-04T23:45:19.227389+00:00",
+  "updatedAt": "2026-09-08T00:00:27.451098+00:00",
   "prices": {
     "VOO": {
       "price": 708.01,
@@ -40,8 +40,8 @@
     },
     "GOOGL": {
       "price": 338.46,
-      "change": -4.02,
-      "changePercent": -1.17
+      "change": -3.8,
+      "changePercent": -1.11
     },
     "AMZN": {
       "price": 258.51,
