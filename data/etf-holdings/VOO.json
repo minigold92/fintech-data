@@ -3,49 +3,49 @@
   "name": "Vanguard S&P 500 ETF",
   "asOfDate": "2026-09-17",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-09-17T00:08:28.374624+00:00",
+  "updatedAt": "2026-09-17T23:55:46.584581+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 7.55,
+      "weight": 8.08,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.04,
+      "weight": 7.03,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.36,
+      "weight": 5.7,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.13,
+      "weight": 3.84,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.24,
+      "weight": 3.01,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 2.86,
+      "weight": 2.65,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.62,
+      "weight": 2.4,
       "sector": "Communication Services"
     },
     {
@@ -55,16 +55,16 @@
       "sector": "Communication Services"
     },
     {
-      "symbol": "JPM",
-      "name": "JPMorgan Chase & Co",
-      "weight": 1.46,
-      "sector": "Financial Services"
+      "symbol": "MU",
+      "name": "Micron Technology Inc",
+      "weight": 1.63,
+      "sector": "Technology"
     },
     {
-      "symbol": "BRK-B",
-      "name": "Berkshire Hathaway Inc Class B",
-      "weight": 1.46,
-      "sector": "Financial Services"
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 1.57,
+      "sector": "Consumer Cyclical"
     }
   ]
 }

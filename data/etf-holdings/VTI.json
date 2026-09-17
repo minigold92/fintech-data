@@ -3,68 +3,68 @@
   "name": "Vanguard Morningstar Total Stock Market ETF",
   "asOfDate": "2026-09-17",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-09-17T00:08:30.222298+00:00",
+  "updatedAt": "2026-09-17T23:55:50.577730+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 6.4,
+      "weight": 6.87,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 6.29,
+      "weight": 6.3,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 4.78,
+      "weight": 5.1,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 3.64,
+      "weight": 3.41,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 2.89,
+      "weight": 2.7,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 2.55,
+      "weight": 2.37,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.31,
+      "weight": 2.12,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 1.69,
+      "weight": 1.7,
       "sector": "Communication Services"
     },
     {
-      "symbol": "LLY",
-      "name": "Eli Lilly and Co",
-      "weight": 1.35,
-      "sector": "Healthcare"
+      "symbol": "MU",
+      "name": "Micron Technology Inc",
+      "weight": 1.46,
+      "sector": "Technology"
     },
     {
-      "symbol": "JPM",
-      "name": "JPMorgan Chase & Co",
-      "weight": 1.31,
-      "sector": "Financial Services"
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 1.4,
+      "sector": "Consumer Cyclical"
     }
   ]
 }
