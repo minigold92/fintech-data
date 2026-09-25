@@ -1,12 +1,12 @@
 {
-  "asOfDate": "2026-09-24",
+  "asOfDate": "2026-09-25",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-09-24T00:15:26.505631+00:00",
+  "updatedAt": "2026-09-25T00:17:44.431672+00:00",
   "prices": {
     "VOO": {
-      "price": 707.6,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "QQQ": {
       "price": NaN,
@@ -19,9 +19,9 @@
       "changePercent": NaN
     },
     "VTI": {
-      "price": 378.23,
-      "change": 0.0,
-      "changePercent": 0.0
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "SPY": {
       "price": NaN,
