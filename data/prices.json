@@ -1,62 +1,62 @@
 {
-  "asOfDate": "2026-09-29",
+  "asOfDate": "2026-09-30",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-09-29T01:29:55.346822+00:00",
+  "updatedAt": "2026-09-30T01:06:37.289866+00:00",
   "prices": {
     "VOO": {
-      "price": 703.61,
-      "change": -5.36,
-      "changePercent": -0.76
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "QQQ": {
-      "price": 736.53,
-      "change": -7.97,
-      "changePercent": -1.07
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "SCHD": {
-      "price": 33.01,
-      "change": -0.2,
-      "changePercent": -0.6
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "VTI": {
-      "price": 375.84,
-      "change": -2.97,
-      "changePercent": -0.79
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "SPY": {
-      "price": 765.61,
-      "change": -5.74,
-      "changePercent": -0.74
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "AAPL": {
-      "price": 338.4,
-      "change": -2.67,
-      "changePercent": -0.78
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "MSFT": {
-      "price": 509.22,
-      "change": -6.95,
-      "changePercent": -1.35
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "GOOGL": {
-      "price": 342.75,
-      "change": -1.17,
-      "changePercent": -0.34
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "AMZN": {
-      "price": 246.15,
-      "change": -3.52,
-      "changePercent": -1.41
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "NVDA": {
-      "price": 228.86,
-      "change": 3.79,
-      "changePercent": 1.68
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     },
     "TSLA": {
-      "price": 357.45,
-      "change": -14.66,
-      "changePercent": -3.94
+      "price": NaN,
+      "change": NaN,
+      "changePercent": NaN
     }
   }
 }
