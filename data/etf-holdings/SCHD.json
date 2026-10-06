@@ -1,70 +1,70 @@
 {
   "symbol": "SCHD",
   "name": "Schwab U.S. Dividend Equity ETF",
-  "asOfDate": "2026-10-03",
+  "asOfDate": "2026-10-06",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-03T00:57:26.823308+00:00",
+  "updatedAt": "2026-10-06T02:04:40.853815+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "weight": 4.66,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "weight": 4.56,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "weight": 4.23,
+      "sector": "Consumer Defensive"
+    },
+    {
       "symbol": "MRK",
       "name": "Merck & Co Inc",
-      "weight": 4.78,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "ABT",
-      "name": "Abbott Laboratories",
-      "weight": 4.77,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "AMGN",
-      "name": "Amgen Inc",
-      "weight": 4.72,
+      "weight": 4.15,
       "sector": "Healthcare"
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Co",
-      "weight": 4.2,
+      "weight": 4.15,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "weight": 4.06,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "weight": 4.03,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "weight": 3.95,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc",
+      "weight": 3.86,
       "sector": "Consumer Defensive"
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc",
-      "weight": 3.97,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron Corp",
-      "weight": 3.93,
-      "sector": "Energy"
-    },
-    {
-      "symbol": "HD",
-      "name": "The Home Depot Inc",
-      "weight": 3.9,
-      "sector": "Consumer Cyclical"
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
       "weight": 3.86,
-      "sector": "Energy"
-    },
-    {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group Inc",
-      "weight": 3.85,
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "PG",
-      "name": "Procter & Gamble Co",
-      "weight": 3.79,
-      "sector": "Consumer Defensive"
+      "sector": "Communication Services"
     }
   ]
 }

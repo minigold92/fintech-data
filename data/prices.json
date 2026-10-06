@@ -1,62 +1,62 @@
 {
-  "asOfDate": "2026-10-03",
+  "asOfDate": "2026-10-06",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-03T00:57:22.778706+00:00",
+  "updatedAt": "2026-10-06T02:04:35.741898+00:00",
   "prices": {
     "VOO": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 712.32,
+      "change": 4.78,
+      "changePercent": 0.68
     },
     "QQQ": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 756.2,
+      "change": 6.62,
+      "changePercent": 0.88
     },
     "SCHD": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 32.72,
+      "change": 0.0,
+      "changePercent": 0.0
     },
     "VTI": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 380.6,
+      "change": 2.61,
+      "changePercent": 0.69
     },
     "SPY": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 774.83,
+      "change": 5.19,
+      "changePercent": 0.67
     },
     "AAPL": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 332.89,
+      "change": -0.8,
+      "changePercent": -0.24
     },
     "MSFT": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 525.18,
+      "change": 7.65,
+      "changePercent": 1.48
     },
     "GOOGL": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 346.47,
+      "change": 2.97,
+      "changePercent": 0.86
     },
     "AMZN": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 251.4,
+      "change": -0.12,
+      "changePercent": -0.05
     },
     "NVDA": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 238.9,
+      "change": 4.95,
+      "changePercent": 2.12
     },
     "TSLA": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 378.73,
+      "change": 8.14,
+      "changePercent": 2.2
     }
   }
 }
