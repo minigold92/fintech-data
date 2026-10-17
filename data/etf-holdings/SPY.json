@@ -1,27 +1,27 @@
 {
   "symbol": "SPY",
   "name": "State Street SPDR S&P 500 ETF Trust",
-  "asOfDate": "2026-10-16",
+  "asOfDate": "2026-10-17",
   "source": "SSGA",
-  "updatedAt": "2026-10-16T00:06:03.950501+00:00",
+  "updatedAt": "2026-10-17T00:10:09.932255+00:00",
   "holdingsCount": 504,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 8.05,
+      "weight": 7.88,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "APPLE INC",
-      "weight": 7.53,
+      "weight": 7.48,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 5.96,
+      "weight": 6.0,
       "sector": "Technology"
     },
     {
@@ -37,34 +37,40 @@
       "sector": "Communication Services"
     },
     {
-      "symbol": "AVGO",
-      "name": "BROADCOM INC",
-      "weight": 2.48,
-      "sector": "Technology"
-    },
-    {
       "symbol": "GOOG",
       "name": "ALPHABET INC CL C",
       "weight": 2.46,
       "sector": "Communication Services"
     },
     {
-      "symbol": "META",
-      "name": "META PLATFORMS INC CLASS A",
+      "symbol": "AVGO",
+      "name": "BROADCOM INC",
       "weight": 2.45,
-      "sector": "Communication Services"
+      "sector": "Technology"
     },
     {
-      "symbol": "TSLA",
-      "name": "TESLA INC",
-      "weight": 1.56,
-      "sector": "Consumer Cyclical"
+      "symbol": "META",
+      "name": "META PLATFORMS INC CLASS A",
+      "weight": 2.43,
+      "sector": "Communication Services"
     },
     {
       "symbol": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "weight": 1.55,
+      "weight": 1.58,
       "sector": "Technology"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "TESLA INC",
+      "weight": 1.53,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "LLY",
+      "name": "ELI LILLY + CO",
+      "weight": 1.5,
+      "sector": "Healthcare"
     },
     {
       "symbol": "BRK.B",
@@ -73,15 +79,9 @@
       "sector": "Unknown"
     },
     {
-      "symbol": "LLY",
-      "name": "ELI LILLY + CO",
-      "weight": 1.45,
-      "sector": "Healthcare"
-    },
-    {
       "symbol": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "weight": 1.4,
+      "weight": 1.38,
       "sector": "Technology"
     },
     {
@@ -93,25 +93,25 @@
     {
       "symbol": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP",
-      "weight": 1.09,
+      "weight": 1.08,
       "sector": "Energy"
     },
     {
       "symbol": "V",
       "name": "VISA INC CLASS A SHARES",
-      "weight": 1.0,
+      "weight": 1.02,
       "sector": "Financial Services"
     },
     {
       "symbol": "JNJ",
       "name": "JOHNSON + JOHNSON",
-      "weight": 0.92,
+      "weight": 0.91,
       "sector": "Healthcare"
     },
     {
       "symbol": "WMT",
       "name": "WALMART INC",
-      "weight": 0.78,
+      "weight": 0.79,
       "sector": "Consumer Defensive"
     },
     {
@@ -123,32 +123,20 @@
     {
       "symbol": "MA",
       "name": "MASTERCARD INC   A",
-      "weight": 0.73,
+      "weight": 0.75,
       "sector": "Financial Services"
     },
     {
       "symbol": "INTC",
       "name": "INTEL CORP",
-      "weight": 0.73,
+      "weight": 0.71,
       "sector": "Technology"
     },
     {
       "symbol": "PLTR",
       "name": "PALANTIR TECHNOLOGIES INC A",
-      "weight": 0.7,
+      "weight": 0.69,
       "sector": "Technology"
-    },
-    {
-      "symbol": "CSCO",
-      "name": "CISCO SYSTEMS INC",
-      "weight": 0.67,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "CVX",
-      "name": "CHEVRON CORP",
-      "weight": 0.66,
-      "sector": "Energy"
     },
     {
       "symbol": "COST",
@@ -157,22 +145,34 @@
       "sector": "Consumer Defensive"
     },
     {
+      "symbol": "CVX",
+      "name": "CHEVRON CORP",
+      "weight": 0.65,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "CISCO SYSTEMS INC",
+      "weight": 0.65,
+      "sector": "Technology"
+    },
+    {
       "symbol": "PG",
       "name": "PROCTER + GAMBLE CO/THE",
       "weight": 0.55,
       "sector": "Consumer Defensive"
     },
     {
-      "symbol": "MRK",
-      "name": "MERCK + CO. INC.",
+      "symbol": "UNH",
+      "name": "UNITEDHEALTH GROUP INC",
       "weight": 0.55,
       "sector": "Healthcare"
     },
     {
-      "symbol": "LRCX",
-      "name": "LAM RESEARCH CORP",
+      "symbol": "MRK",
+      "name": "MERCK + CO. INC.",
       "weight": 0.54,
-      "sector": "Technology"
+      "sector": "Healthcare"
     },
     {
       "symbol": "KO",
@@ -181,21 +181,21 @@
       "sector": "Consumer Defensive"
     },
     {
-      "symbol": "UNH",
-      "name": "UNITEDHEALTH GROUP INC",
-      "weight": 0.53,
-      "sector": "Healthcare"
+      "symbol": "LRCX",
+      "name": "LAM RESEARCH CORP",
+      "weight": 0.52,
+      "sector": "Technology"
     },
     {
       "symbol": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "weight": 0.53,
+      "weight": 0.51,
       "sector": "Technology"
     },
     {
       "symbol": "CAT",
       "name": "CATERPILLAR INC",
-      "weight": 0.52,
+      "weight": 0.51,
       "sector": "Industrials"
     },
     {
@@ -205,50 +205,50 @@
       "sector": "Financial Services"
     },
     {
-      "symbol": "PM",
-      "name": "PHILIP MORRIS INTERNATIONAL",
-      "weight": 0.48,
-      "sector": "Consumer Defensive"
-    },
-    {
       "symbol": "GE",
       "name": "GENERAL ELECTRIC",
-      "weight": 0.48,
+      "weight": 0.49,
       "sector": "Industrials"
     },
     {
-      "symbol": "PANW",
-      "name": "PALO ALTO NETWORKS INC",
-      "weight": 0.46,
-      "sector": "Technology"
+      "symbol": "PM",
+      "name": "PHILIP MORRIS INTERNATIONAL",
+      "weight": 0.47,
+      "sector": "Consumer Defensive"
     },
     {
       "symbol": "HD",
       "name": "HOME DEPOT INC",
-      "weight": 0.44,
+      "weight": 0.46,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "NFLX",
       "name": "NETFLIX INC",
-      "weight": 0.44,
+      "weight": 0.45,
       "sector": "Communication Services"
     },
     {
-      "symbol": "TXN",
-      "name": "TEXAS INSTRUMENTS INC",
-      "weight": 0.39,
+      "symbol": "PANW",
+      "name": "PALO ALTO NETWORKS INC",
+      "weight": 0.45,
       "sector": "Technology"
     },
     {
       "symbol": "GS",
       "name": "GOLDMAN SACHS GROUP INC",
-      "weight": 0.38,
+      "weight": 0.39,
       "sector": "Financial Services"
     },
     {
-      "symbol": "CRWD",
-      "name": "CROWDSTRIKE HOLDINGS INC   A",
+      "symbol": "TMO",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "weight": 0.39,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "TXN",
+      "name": "TEXAS INSTRUMENTS INC",
       "weight": 0.38,
       "sector": "Technology"
     },
@@ -259,28 +259,22 @@
       "sector": "Industrials"
     },
     {
-      "symbol": "GEV",
-      "name": "GE VERNOVA INC",
-      "weight": 0.38,
-      "sector": "Industrials"
-    },
-    {
-      "symbol": "TMO",
-      "name": "THERMO FISHER SCIENTIFIC INC",
-      "weight": 0.37,
-      "sector": "Healthcare"
-    },
-    {
       "symbol": "WFC",
       "name": "WELLS FARGO + CO",
-      "weight": 0.37,
+      "weight": 0.38,
       "sector": "Financial Services"
     },
     {
-      "symbol": "KLAC",
-      "name": "KLA CORP",
-      "weight": 0.35,
+      "symbol": "CRWD",
+      "name": "CROWDSTRIKE HOLDINGS INC   A",
+      "weight": 0.37,
       "sector": "Technology"
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE VERNOVA INC",
+      "weight": 0.37,
+      "sector": "Industrials"
     },
     {
       "symbol": "AMGN",
@@ -289,22 +283,28 @@
       "sector": "Healthcare"
     },
     {
+      "symbol": "ORCL",
+      "name": "ORACLE CORP",
+      "weight": 0.35,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA CORP",
+      "weight": 0.34,
+      "sector": "Technology"
+    },
+    {
       "symbol": "LIN",
       "name": "LINDE PLC",
       "weight": 0.34,
       "sector": "Basic Materials"
     },
     {
-      "symbol": "ORCL",
-      "name": "ORACLE CORP",
-      "weight": 0.34,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "MS",
-      "name": "MORGAN STANLEY",
+      "symbol": "IBM",
+      "name": "INTL BUSINESS MACHINES CORP",
       "weight": 0.33,
-      "sector": "Financial Services"
+      "sector": "Technology"
     }
   ],
   "totalHoldings": 504

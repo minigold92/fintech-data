@@ -1,69 +1,69 @@
 {
   "symbol": "VOO",
   "name": "Vanguard S&P 500 ETF",
-  "asOfDate": "2026-10-16",
+  "asOfDate": "2026-10-17",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-16T00:05:50.628491+00:00",
+  "updatedAt": "2026-10-17T00:10:00.570851+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corp",
-      "weight": 8.08,
+      "weight": 8.39,
       "sector": "Technology"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc",
-      "weight": 7.03,
+      "weight": 7.38,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.7,
+      "weight": 5.78,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 3.84,
+      "weight": 3.71,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.01,
+      "weight": 3.07,
       "sector": "Communication Services"
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc",
-      "weight": 2.65,
+      "weight": 2.54,
       "sector": "Technology"
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc Class C",
-      "weight": 2.4,
+      "weight": 2.45,
       "sector": "Communication Services"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 1.9,
+      "weight": 2.43,
       "sector": "Communication Services"
     },
     {
       "symbol": "MU",
       "name": "Micron Technology Inc",
-      "weight": 1.63,
+      "weight": 1.83,
       "sector": "Technology"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla Inc",
-      "weight": 1.57,
+      "weight": 1.52,
       "sector": "Consumer Cyclical"
     }
   ]
