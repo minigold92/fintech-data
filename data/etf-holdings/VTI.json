@@ -1,9 +1,9 @@
 {
   "symbol": "VTI",
   "name": "Vanguard Morningstar Total Stock Market ETF",
-  "asOfDate": "2026-10-24",
+  "asOfDate": "2026-10-27",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-24T00:17:36.737774+00:00",
+  "updatedAt": "2026-10-27T01:11:30.135079+00:00",
   "holdingsCount": 10,
   "holdings": [
     {

@@ -1,9 +1,9 @@
 {
   "symbol": "VOO",
   "name": "Vanguard S&P 500 ETF",
-  "asOfDate": "2026-10-24",
+  "asOfDate": "2026-10-27",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-24T00:17:34.178528+00:00",
+  "updatedAt": "2026-10-27T01:11:26.523712+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
