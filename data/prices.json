@@ -1,62 +1,62 @@
 {
-  "asOfDate": "2026-10-28",
+  "asOfDate": "2026-10-29",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-10-28T00:59:12.957304+00:00",
+  "updatedAt": "2026-10-29T01:34:38.272144+00:00",
   "prices": {
     "VOO": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 709.9,
+      "change": 2.38,
+      "changePercent": 0.34
     },
     "QQQ": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 725.61,
+      "change": 4.36,
+      "changePercent": 0.6
     },
     "SCHD": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 35.09,
+      "change": -0.03,
+      "changePercent": -0.09
     },
     "VTI": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 379.17,
+      "change": 1.25,
+      "changePercent": 0.33
     },
     "SPY": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 772.31,
+      "change": 2.65,
+      "changePercent": 0.34
     },
     "AAPL": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 343.83,
+      "change": -3.27,
+      "changePercent": -0.94
     },
     "MSFT": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 531.01,
+      "change": -0.32,
+      "changePercent": -0.06
     },
     "GOOGL": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 324.89,
+      "change": 4.31,
+      "changePercent": 1.34
     },
     "AMZN": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 254.6,
+      "change": 1.5,
+      "changePercent": 0.59
     },
     "NVDA": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 215.38,
+      "change": -2.56,
+      "changePercent": -1.17
     },
     "TSLA": {
-      "price": NaN,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 404.22,
+      "change": -3.24,
+      "changePercent": -0.8
     }
   }
 }
