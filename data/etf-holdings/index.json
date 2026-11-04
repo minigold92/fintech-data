@@ -1,6 +1,6 @@
 {
-  "asOfDate": "2026-11-03",
-  "updatedAt": "2026-11-03T03:19:11.386882+00:00",
+  "asOfDate": "2026-11-04",
+  "updatedAt": "2026-11-04T01:55:34.323650+00:00",
   "etfs": {
     "VOO": {
       "name": "Vanguard S&P 500 ETF",
@@ -24,7 +24,7 @@
     },
     "SPY": {
       "name": "State Street SPDR S&P 500 ETF Trust",
-      "holdingsCount": 504,
+      "holdingsCount": 503,
       "source": "SSGA"
     }
   }
