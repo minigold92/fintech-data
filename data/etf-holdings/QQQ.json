@@ -1,70 +1,70 @@
 {
   "symbol": "QQQ",
   "name": "Invesco QQQ Trust",
-  "asOfDate": "2026-11-04",
+  "asOfDate": "2026-11-05",
   "source": "Yahoo Finance",
-  "updatedAt": "2026-11-04T01:55:25.335372+00:00",
+  "updatedAt": "2026-11-05T01:59:58.948376+00:00",
   "holdingsCount": 10,
   "holdings": [
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp",
-      "weight": 8.33,
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "weight": 8.16,
       "sector": "Technology"
     },
     {
-      "symbol": "AAPL",
-      "name": "Apple Inc",
-      "weight": 7.35,
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "weight": 8.0,
       "sector": "Technology"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corp",
-      "weight": 5.76,
+      "weight": 6.29,
       "sector": "Technology"
     },
     {
       "symbol": "MU",
       "name": "Micron Technology Inc",
-      "weight": 5.02,
-      "sector": "Technology"
-    },
-    {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices Inc",
-      "weight": 4.17,
+      "weight": 4.47,
       "sector": "Technology"
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com Inc",
-      "weight": 4.07,
+      "weight": 4.21,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "weight": 3.69,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 3.41,
       "sector": "Consumer Cyclical"
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 3.26,
+      "weight": 2.97,
       "sector": "Communication Services"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "weight": 2.69,
+      "sector": "Consumer Defensive"
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc Class A",
-      "weight": 3.05,
+      "weight": 2.66,
       "sector": "Communication Services"
-    },
-    {
-      "symbol": "GOOG",
-      "name": "Alphabet Inc Class C",
-      "weight": 2.85,
-      "sector": "Communication Services"
-    },
-    {
-      "symbol": "TSLA",
-      "name": "Tesla Inc",
-      "weight": 2.82,
-      "sector": "Consumer Cyclical"
     }
   ]
 }
